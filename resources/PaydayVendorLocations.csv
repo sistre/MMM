@@ -18,7 +18,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 90006,ACE Cash Express,"3087 W Pico Blvd Ste 1 Ste 1 Ste 1, Los Angeles, CA 90006, United States",34.047351,-118.308634
 90006,Oportun,"2024 W Pico Blvd, Los Angeles, CA 90006, United States",34.0466342,-118.2824618
 90007,Lower My Payday Loans,"3775 Vermont Ave, Los Angeles, CA 90007, United States",34.0178528,-118.2919529
-90007,Advance America,"3623 S Vermont Ave, Los Angeles, CA 90007, United States",34.02227999999999,-118.292206
+90007,Advance America,"3623 S Vermont Ave, Los Angeles, CA 90007, United States",34.02228,-118.292206
 90008,Check Into Cash,"3829 South, Los Angeles, CA 90008, United States",34.016585,-118.335599
 90008,CCS Title Loan Services – LoanMart Baldwin Hills,"4050 S Victoria Ave, Los Angeles, CA 90008, United States",34.0078647,-118.3363782
 90010,Payday Express,"3547 Wilshire Blvd, Los Angeles, CA 90010, United States",34.0618975,-118.302058
@@ -44,7 +44,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 90022,Oportun,"275 S Atlantic Blvd, East Los Angeles, CA 90022, United States",34.0327607,-118.154137
 90023,ACE Cash Express,"3359 Whittier Blvd, Los Angeles, CA 90023, United States",34.028296,-118.200914
 90023,Paycheck cashing and payday,"1260 S Soto St, Los Angeles, CA 90023, United States",34.026332,-118.2194249
-90023,Montana Capital Car Title Loans,"827 Euclid Ave, Los Angeles, CA 90023, United States",34.03093140000001,-118.2074282
+90023,Montana Capital Car Title Loans,"827 Euclid Ave, Los Angeles, CA 90023, United States",34.0309314,-118.2074282
 90025,Westwood Check Cashing Etc,"2180 Westwood Blvd #1, Los Angeles, CA 90025, United States",34.044498,-118.4319241
 90026,ACE Cash Express,"1561 Sunset Blvd, Los Angeles, CA 90026, United States",34.076741,-118.256855
 90026,Oportun,"2530 W Temple St, Los Angeles, CA 90026, United States",34.0721402,-118.2746046
@@ -59,7 +59,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 90031,Oportun,"3025 N Broadway, Los Angeles, CA 90031, United States",34.0741813,-118.2094387
 90032,Check Into Cash,"5150 Huntington Dr N Children's Reading, Los Angeles, CA 90032, United States",34.088766,-118.170713
 90032,ACE Cash Express,"4940 Huntington Dr S, Los Angeles, CA 90032, United States",34.087071,-118.175364
-90034,Check Into Cash,"10401 Venice Blvd #103, Los Angeles, CA 90034, United States",34.02066200000001,-118.404567
+90034,Check Into Cash,"10401 Venice Blvd #103, Los Angeles, CA 90034, United States",34.020662,-118.404567
 90037,L.A. Cash Advance,"5401 S Figueroa St #6, Los Angeles, CA 90037, United States",33.9929753,-118.2831299
 90038,Oportun,"5926 Santa Monica Blvd, Los Angeles, CA 90038, United States",34.090455,-118.3186159
 90038,TitleMax Title Loans,"5600 Santa Monica Blvd, Los Angeles, CA 90038, United States",34.0905252,-118.3117622
@@ -149,7 +149,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 90255,The Check Cashing Place,"2602 Florence Ave, Huntington Park, CA 90255, United States",33.9739857,-118.2249203
 90255,ACE Cash Express,"7201 Pacific Blvd, Huntington Park, CA 90255, United States",33.974057,-118.225589
 90255,"check n go, Check `n Go Store Directory","7006 Santa Fe Ave, Huntington Park, CA 90255, United States",33.9758154,-118.2291681
-90255,Continental Currency Services,"2451 E Florence Ave, Huntington Park, CA 90255, United States",33.97484730000001,-118.2288204
+90255,Continental Currency Services,"2451 E Florence Ave, Huntington Park, CA 90255, United States",33.9748473,-118.2288204
 90255,DolEx Dollar Express,"7138 Pacific Blvd, Huntington Park, CA 90255, United States",33.9744718,-118.2250032
 90255,Continental Currency Services,"2400 E Florence Ave, Huntington Park, CA 90255, United States",33.974482,-118.229997
 90260,Payday Loans,"14408 Hawthorne Blvd, Lawndale, CA 90260, United States",33.9009252,-118.3521867
@@ -235,7 +235,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 90638,Check Into Cash,"15735 Imperial Hwy, La Mirada, CA 90638, United States",33.918035,-117.99583
 90638,Check `n Go,"14557 East, Telegraph Rd, La Mirada, CA 90638, United States",33.923565,-118.0217786
 90638,Speed Check Cashing,"12226 La Mirada Blvd, La Mirada, CA 90638, United States",33.9190938,-118.0105522
-90638,"check n go, Check `n Go Store Directory","14557 East, Telegraph Rd, La Mirada, CA 90638, United States",33.92357440000001,-118.021736
+90638,"check n go, Check `n Go Store Directory","14557 East, Telegraph Rd, La Mirada, CA 90638, United States",33.9235744,-118.021736
 90638,MVP Car Title Loan La Mirada,"13520 Raceland Rd, La Mirada, CA 90638, United States",33.9081936,-118.0260878
 90638,Swift Title Loans,"15021 Imperial Hwy, La Mirada, CA 90638, United States",33.917345,-118.0106288
 90638,Trt Home Loans,"15744 Imperial Hwy, La Mirada, CA 90638, United States",33.9168016,-117.9950502
@@ -243,7 +243,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 90640,ACE Cash Express,"1001 W Whittier Blvd ste a, Montebello, CA 90640, United States",34.010468,-118.111113
 90640,ACE Cash Express - ATM,"2900 W Beverly Blvd ste a ste a, Montebello, CA 90640, United States",34.022884,-118.1343149
 90640,"check n go, Check `n Go Store Directory","1026 W Beverly Blvd, Montebello, CA 90640, United States",34.0181786,-118.1089879
-90640,Oportun,"1201 W Whittier Blvd, Montebello, CA 90640, United States",34.00973159999999,-118.1136285
+90640,Oportun,"1201 W Whittier Blvd, Montebello, CA 90640, United States",34.0097316,-118.1136285
 90650,Payday Express,"10649 Imperial Hwy, Norwalk, CA 90650, United States",33.9175486,-118.1064991
 90650,Payday Loans,"11755 Imperial Hwy, Norwalk, CA 90650, United States",33.9172905,-118.0821309
 90650,Check Into Cash,"11479 Rosecrans Ave, Norwalk, CA 90650, United States",33.902792,-118.08861
@@ -284,7 +284,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 90712,L.A. Cash Advance,"2712 E Del Amo Blvd, Lakewood, CA 90712, United States",33.846034,-118.159404
 90712,Check `n Go,"4073 Hardwick St, Lakewood, CA 90712, United States",33.851754,-118.1442044
 90712,"check n go, Check `n Go Store Directory","4073 Hardwick St, Lakewood, CA 90712, United States",33.8517979,-118.1441753
-90713,E Z Check Advance,"5515 Del Amo Blvd, Lakewood, CA 90713, United States",33.84751850000001,-118.1246003
+90713,E Z Check Advance,"5515 Del Amo Blvd, Lakewood, CA 90713, United States",33.8475185,-118.1246003
 90713,Speedy Cash,"5445 South St, Lakewood, CA 90713, United States",33.8605727,-118.1263845
 90713,Check Into Cash,"5539 Woodruff Ave, Lakewood, CA 90713, United States",33.857317,-118.117538
 90713,OneMain Financial,"5909 South St, Lakewood, CA 90713, United States",33.8590343,-118.1167026
@@ -296,7 +296,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 90716,Gardens Gold & Loan,"11858 E Carson St, Hawaiian Gardens, CA 90716, United States",33.8312836,-118.0796574
 90720,Payday Money Centers- Los Alamitos,"3259 Katella Ave, Los Alamitos, CA 90720, United States",33.803557,-118.075448
 90723,Alondra QuikCheck,"15920 Downey Ave STE A-5, Paramount, CA 90723, United States",33.888467,-118.15109
-90723,Lendmark Financial Services LLC,"7902 Alondra Blvd, Paramount, CA 90723, United States",33.88892939999999,-118.161204
+90723,Lendmark Financial Services LLC,"7902 Alondra Blvd, Paramount, CA 90723, United States",33.8889294,-118.161204
 90731,Speedy Cash,"904 S Gaffey St, San Pedro, CA 90731, United States",33.7356921,-118.2921737
 90731,ACE Cash Express,"1330 S Pacific Ave A, San Pedro, CA 90731, United States",33.731852,-118.287695
 90731,Oportun,"699 S Gaffey St, San Pedro, CA 90731, United States",33.7380413,-118.2926528
@@ -391,7 +391,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 91320,Cash N More,"587 N Ventu Park Rd # E, Newbury Park, CA 91320, United States",34.1872523,-118.9123381
 91320,MULTISERVICIOS LAS AMERICAS,"2454 W Hillcrest Dr #104, Newbury Park, CA 91320, United States",34.186095,-118.929134
 91320,Capstone Direct | Home Loans Thousand Oaks,"3285 Old Conejo Rd, Newbury Park, CA 91320, United States",34.19088,-118.944657
-91320,BCU,"1700 Rancho Conejo Blvd, Newbury Park, CA 91320, United States",34.20621940000001,-118.9300075
+91320,BCU,"1700 Rancho Conejo Blvd, Newbury Park, CA 91320, United States",34.2062194,-118.9300075
 91320,Erik Lundring - Thrivent,"3255 Old Conejo Rd #201, Thousand Oaks, CA 91320, United States",34.1912352,-118.9441764
 91320,Citibank,"2170 Newbury Rd, Newbury Park, CA 91320, United States",34.182438,-118.924776
 91321,Advance America,"23354 Lyons Ave, Newhall, CA 91321, United States",34.37931,-118.542175
@@ -466,7 +466,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 91364,Woodland Hills Pawn shop,"20930 Ventura Blvd, Woodland Hills, CA 91364, United States",34.1662846,-118.5894245
 91367,Express Payday Loans,"21806 Burbank Blvd, Woodland Hills, CA 91367, United States",34.1737122,-118.6041997
 91367,Premier Financial,"22020 Clarendon St #201, Woodland Hills, CA 91367, United States",34.1694773,-118.6067985
-91367,ForwardLine,"21700 W Oxnard St #1400, Woodland Hills, CA 91367, United States",34.17887839999999,-118.6020803
+91367,ForwardLine,"21700 W Oxnard St #1400, Woodland Hills, CA 91367, United States",34.1788784,-118.6020803
 91381,Wescom Credit Union,"24939 Pico Canyon Rd D, Stevenson Ranch, CA 91381, United States",34.3824475,-118.5714273
 91387,SCV Pawn Brokers Inc.,"18360 Soledad Canyon Rd, Canyon Country, CA 91387, United States",34.416153,-118.453426
 91401,DolEx Dollar Express,"14444 Victory Blvd, Van Nuys, CA 91401, United States",34.186495,-118.44814
@@ -577,7 +577,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 91737,Swift Title Loans Rancho Cucamonga,"6436 Haven Ave, Rancho Cucamonga, CA 91737, United States",34.137419,-117.5759745
 91740,Ezee Auto Car Title Loans Glendora Ca,"147 W. Rt.66, #309-k, Glendora, CA 91740, United States",34.129226,-117.86611
 91740,Eagle Financial,"620 W Rte 66, Glendora, CA 91740, United States",34.1283994,-117.8755427
-91741,Cash In A Flash,"Glendora, CA 91741, United States",34.12919280000001,-117.8642391
+91741,Cash In A Flash,"Glendora, CA 91741, United States",34.1291928,-117.8642391
 91741,Car Title Loans California,"102 W Foothill Blvd #34, Glendora, CA 91741, United States",34.1352973,-117.8657464
 91744,Check Into Cash,"907 N Sunset Ave, La Puente, CA 91744, United States",34.0457361,-117.9633504
 91744,Advance America,"1645 N Hacienda Blvd, La Puente, CA 91744, United States",34.050056,-117.94652
@@ -657,7 +657,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 91791,Payday Express,"540 N Azusa Ave, West Covina, CA 91791, United States",34.0804362,-117.9075599
 91791,Cashback Loans,"332 N Azusa Ave, West Covina, CA 91791, United States",34.0768766,-117.90729
 91791,A Advance,"548 N Azusa Ave, West Covina, CA 91791, United States",34.0806239,-117.9075391
-91791,Century Loan Services,"351 N Azusa Ave, West Covina, CA 91791, United States",34.07722270000001,-117.9094299
+91791,Century Loan Services,"351 N Azusa Ave, West Covina, CA 91791, United States",34.0772227,-117.9094299
 91791,"Alamo Jewelry & Loan, Pawn, Guns, Ammo, Gold, Diamonds, Silver, Coins, Electronics, Watches","544 N Azusa Ave, West Covina, CA 91791, United States",34.0805427,-117.9074664
 91792,Cashback Loans,"2349 S Azusa Ave, West Covina, CA 91792, United States",34.0333858,-117.914548
 91792,Aces Jewelry and Loan,"1071 E Amar Rd, West Covina, CA 91792, United States",34.03587,-117.9240621
@@ -683,7 +683,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 91932,Check Cashing,"1146 13th St, Imperial Beach, CA 91932, United States",32.5755531,-117.1060143
 91942,ACE Cash Express,"7900 El Cajon Blvd ste h, La Mesa, CA 91942, United States",32.769697,-117.026727
 91942,Sun Cash,"5419 El Cajon Blvd, La Mesa, CA 91942, United States",32.757559,-117.0788633
-91942,"check n go, Check `n Go Store Directory","La Mesa, CA 91942, United States",32.78200959999999,-117.0316922
+91942,"check n go, Check `n Go Store Directory","La Mesa, CA 91942, United States",32.7820096,-117.0316922
 91942,La Mesa Ca Top Auto Car Lender,"8697 La Mesa Blvd ste c 502-g, La Mesa, CA 91942, United States",32.7690408,-117.0095674
 91942,SDCCU La Mesa Branch,"8555 Fletcher Pkwy, La Mesa, CA 91942, United States",32.780352,-117.01422
 91945,USA Checks Cashed & Payday Advance,"7109 Broadway, Lemon Grove, CA 91945, United States",32.7420808,-117.0449541
@@ -704,7 +704,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 91977,USA Checks Cashed & Payday Advance,"521 Sweetwater Rd, Spring Valley, CA 91977, United States",32.707307,-117.0093295
 91977,The Check Cashing Place,"8365 Paradise Valley Rd #16, Spring Valley, CA 91977, United States",32.697004,-117.0190459
 91977,Top Auto Car Loans Spring Valley Ca,"9740 Campo Rd suite 1003-m, Spring Valley, CA 91977, United States",32.7485269,-116.9858686
-91980,Multiservicios Chavez,"438 Tecate Rd, Tecate, CA 91980, United States",32.57824850000001,-116.6289309
+91980,Multiservicios Chavez,"438 Tecate Rd, Tecate, CA 91980, United States",32.5782485,-116.6289309
 92008,OneMain Financial,"5950 La Place Ct #165, Carlsbad, CA 92008, United States",33.1327783,-117.2714235
 92008,AAA Private Money,"2173 Salk Ave Ste. #250, Carlsbad, CA 92008, United States",33.1392964,-117.2759725
 92019,Get Auto Car Title Loans El Cajon Ca,"772 Jamacha Road # 120, El Cajon, CA 92019, United States",32.7859303,-116.928296
@@ -771,7 +771,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 92083,USA Check Center (formerly Check Center),"836 North Santa Fe Avenue # A # A, Vista, CA 92083, United States",33.2111,-117.245251
 92083,Gems N' Loans - Vista,"925 S Santa Fe Ave, Vista, CA 92083, United States",33.1930348,-117.2337945
 92083,DolEx Dollar Express,"280 Vista Village Dr #100, Vista, CA 92083, United States",33.199531,-117.248248
-92083,Montana Capital Car Title Loans,"1234 N Santa Fe Ave Suite #118, Vista, CA 92083, United States",33.21647859999999,-117.2459498
+92083,Montana Capital Car Title Loans,"1234 N Santa Fe Ave Suite #118, Vista, CA 92083, United States",33.2164786,-117.2459498
 92083,Montana Capital Car Title Loans,"1275 S Santa Fe Ave Suite 105, Vista, CA 92083, United States",33.1870682,-117.2255381
 92084,ACE Cash Express,"950 E Vista Way #1, Vista, CA 92084, United States",33.21195,-117.230679
 92084,Checkmate,"897 E Vista Way, Vista, CA 92084, United States",33.21055,-117.232265
@@ -824,7 +824,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 92173,Intercam,"364 E San Ysidro Blvd, San Diego, CA 92173, United States",32.5506334,-117.0386655
 92173,5 Star Car Title Loans,"159 W San Ysidro Blvd #1, San Ysidro, CA 92173, United States",32.5533741,-117.0465581
 92173,MRK Casa De Cambio,"337 E San Ysidro Blvd, San Diego, CA 92173, United States",32.5510738,-117.0382775
-92201,Cashback Loans,"82158 CA-111, Indio, CA 92201, United States",33.71520750000001,-116.2319167
+92201,Cashback Loans,"82158 CA-111, Indio, CA 92201, United States",33.7152075,-116.2319167
 92201,Check Into Cash,"82280 CA-111 #101, Indio, CA 92201, United States",33.715092,-116.2293627
 92201,Advance America,"81673 CA-111 Ste. 5, Indio, CA 92201, United States",33.70773,-116.240234
 92201,Checkmate,"83244 CA-111, Indio, CA 92201, United States",33.715321,-116.212057
@@ -889,7 +889,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 92236,Mechanics Bank - Coachella Branch,"1491 South, 6th St, Coachella, CA 92236, United States",33.6788432,-116.1768436
 92240,Check Into Cash,"14250 Palm Dr suite a-9, Desert Hot Springs, CA 92240, United States",33.945362,-116.500004
 92240,Money Mart,"12537 Palm Dr, Desert Hot Springs, CA 92240, United States",33.9574133,-116.5014823
-92240,Get Auto Car Title Loans Desert Hot Springs Ca,"14080 Palm Dr Ste D # 227, Desert Hot Springs, CA 92240, United States",33.94592860000001,-116.4985913
+92240,Get Auto Car Title Loans Desert Hot Springs Ca,"14080 Palm Dr Ste D # 227, Desert Hot Springs, CA 92240, United States",33.9459286,-116.4985913
 92243,Advance America,"1523 Main St Ste. #107, El Centro, CA 92243, United States",32.791523,-115.571014
 92243,Checkmate,"200 N Imperial Ave, El Centro, CA 92243, United States",32.7938728,-115.5701994
 92243,ACE Cash Express,"1602 N Imperial Ave B, El Centro, CA 92243, United States",32.80779,-115.570413
@@ -904,7 +904,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 92249,Check Cash,"70 E Main St, Heber, CA 92249, United States",32.7309545,-115.5283154
 92253,Balboa Thrift and Loan,"79440 Corporate Centre Dr, La Quinta, CA 92253, United States",33.7096006,-116.2784062
 92253,Union Bank,"79670 CA-111, La Quinta, CA 92253, United States",33.7078716,-116.2744746
-92253,OneWest Bank,"78-010 Main St Suite 100, La Quinta, CA 92253, United States",33.67731920000001,-116.3034503
+92253,OneWest Bank,"78-010 Main St Suite 100, La Quinta, CA 92253, United States",33.6773192,-116.3034503
 92260,CFS Car Title Loans,"73700 CA-111 #10, Palm Desert, CA 92260, United States",33.7217172,-116.3793189
 92260,American AgCredit,"74199 El Paseo #101, Palm Desert, CA 92260, United States",33.7207834,-116.3704022
 92260,Car Title Loans California,"44853 Portola Ave, Palm Desert, CA 92260, United States",33.722225,-116.3740309
@@ -915,8 +915,8 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 92264,Get Auto Car Title Loans Palm Springs Ca,"1775 E Palm Canyon Dr suite 110 ""-1003, Palm Springs, CA 92264, United States",33.7998527,-116.5271095
 92264,5 Star Car Title Loans,"4633 E, Ramon Rd, Palm Springs, CA 92264, United States",33.8154567,-116.496008
 92264,Rocky's Pawn Shop,"691 S Palm Canyon Dr, Palm Springs, CA 92264, United States",33.8123757,-116.5448523
-92264,The Jewelry Vault & Loan,"1502 S Palm Canyon Dr, Palm Springs, CA 92264, United States",33.80384670000001,-116.5454637
-92264,Citibank,"1675 E Palm Canyon Dr, Palm Springs, CA 92264, United States",33.80105500000001,-116.528722
+92264,The Jewelry Vault & Loan,"1502 S Palm Canyon Dr, Palm Springs, CA 92264, United States",33.8038467,-116.5454637
+92264,Citibank,"1675 E Palm Canyon Dr, Palm Springs, CA 92264, United States",33.801055,-116.528722
 92264,Union Bank,"500 S Indian Canyon Dr, Palm Springs, CA 92264, United States",33.8154448,-116.545297
 92270,We Find Lenders,"8 Durango Dr, Rancho Mirage, CA 92270, United States",33.738563,-116.3925228
 92277,Check Into Cash,"73737 Twentynine Palms Highway, Twentynine Palms, CA 92277, United States",34.135226,-116.053738
@@ -934,7 +934,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 92307,USA Checks Cashed & Payday Advance,"20226-C, CA-18, Apple Valley, CA 92307, United States",34.528055,-117.2226
 92307,Get Auto Car Title Loans Apple Valley Ca,"17868 US Highway 18 # 409, Apple Valley, CA 92307, United States",34.540072,-117.272863
 92307,Guru Financial,"18930 Outer Hwy 18 N #103, Apple Valley, CA 92307, United States",34.537767,-117.2509922
-92308,USA Checks Cashed & Payday Advance,"20920 Bear Valley Rd, Apple Valley, CA 92308, United States",34.47190399999999,-117.207349
+92308,USA Checks Cashed & Payday Advance,"20920 Bear Valley Rd, Apple Valley, CA 92308, United States",34.471904,-117.207349
 92308,Advance America,"21620 Bear Valley Rd Unit D-5, Apple Valley, CA 92308, United States",34.47278,-117.19164
 92308,USA Title Loan Services – Loanmart Apple Valley,"20920 Bear Valley Rd Ste F, Apple Valley, CA 92308, United States",34.4718379,-117.2075152
 92308,Express Cash Advance,"12145 Kiowa Rd, Apple Valley, CA 92308, United States",34.472993,-117.2087711
@@ -984,7 +984,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 92373,California Check Cashing Stores,"1615 W Redlands Blvd, Redlands, CA 92373, United States",34.0624107,-117.2095158
 92373,"check n go, Check `n Go Store Directory","700 E Redlands Blvd, Redlands, CA 92373, United States",34.0480747,-117.1707563
 92374,Check Into Cash,"434 Orange St ste 3-e, Redlands, CA 92374, United States",34.0593248,-117.181754
-92374,ACE Cash Express,"6 W Colton Ave, Redlands, CA 92374, United States",34.06321000000001,-117.182772
+92374,ACE Cash Express,"6 W Colton Ave, Redlands, CA 92374, United States",34.06321,-117.182772
 92374,California Payday Advance,"702 W Colton Ave ste g, Redlands, CA 92374, United States",34.0630481,-117.1904996
 92374,Get Auto Title Loans Redlands CA,"1364 Cornell Ave #B47, Redlands, CA 92374, United States",34.067948,-117.158407
 92374,New Horizon Mortgage Concepts,"1255 W Colton Ave # 120, Redlands, CA 92374, United States",34.062002,-117.201946
@@ -1013,7 +1013,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 92395,USA Checks Cashed & Payday Advance,"14876 Bear Valley Rd, Victorville, CA 92395, United States",34.4707856,-117.3391918
 92395,Advance America,"14590 Seventh St, Victorville, CA 92395, United States",34.51614,-117.31501
 92395,Advance Til Payday,"14928 Seventh St E, Victorville, CA 92395, United States",34.5226303,-117.3076942
-92395,Advance America,"17180 Bear Valley Rd #F, Victorville, CA 92395, United States",34.47206000000001,-117.28809
+92395,Advance America,"17180 Bear Valley Rd #F, Victorville, CA 92395, United States",34.47206,-117.28809
 92395,California Check Cashing Stores,"16200 Bear Valley Rd #104, Victorville, CA 92395, United States",34.4720463,-117.310319
 92395,Money Mart,"15381 Seventh St ste a, Victorville, CA 92395, United States",34.5315249,-117.2977676
 92395,Oportun,"12351 Mariposa Rd, Victorville, CA 92395, United States",34.4751763,-117.3393415
@@ -1063,12 +1063,12 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 92504,Get Auto Title Loans,"17130 Van Buren Boulevard #125, Riverside, CA 92504, United States",33.883035,-117.363539
 92505,"check n go, Check `n Go Store Directory","10442 Magnolia Ave, Riverside, CA 92505, United States",33.9100702,-117.4633007
 92505,Oportun,"10330 Arlington Ave, Riverside, CA 92505, United States",33.9456468,-117.4782813
-92505,Montana Capital Car Title Loans,"10800 Hole Ave Suite 3, Riverside, CA 92505, United States",33.91787619999999,-117.4819911
+92505,Montana Capital Car Title Loans,"10800 Hole Ave Suite 3, Riverside, CA 92505, United States",33.9178762,-117.4819911
 92506,Check `n Go,"6057 Magnolia Ave, Riverside, CA 92506, United States",33.9606577,-117.3932981
 92506,OneMain Financial,"6175 Magnolia Ave Ste 5-K, Riverside, CA 92506, United States",33.959216,-117.3931423
 92506,Inland Jewelry & Loan,"6542 Magnolia Ave, Riverside, CA 92506, United States",33.9540942,-117.3959312
 92507,USA Checks Cashed & Payday Advance,"2535 University Ave, Riverside, CA 92507, United States",33.976186,-117.3615883
-92507,Advance America,"3907-A Chicago Ave, Riverside, CA 92507, United States",33.97469299999999,-117.34925
+92507,Advance America,"3907-A Chicago Ave, Riverside, CA 92507, United States",33.974693,-117.34925
 92507,Check Into Cash,"4020 Chicago Ave building c, Riverside, CA 92507, United States",33.9732908,-117.3475507
 92507,Continental Currency Services,"1788 University Ave #116, Riverside, CA 92507, United States",33.9754034,-117.3504261
 92509,Cashback Loans,"5563 Mission Boulevard Ste A, Jurupa Valley, CA 92509, United States",33.9967073,-117.4050787
@@ -1164,7 +1164,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 92618,Loantopia,"15271 Barranca Pkwy, Irvine, CA 92618, United States",33.657993,-117.7351748
 92618,KwikCash,"9150 Irvine Center Dr, Irvine, CA 92618, United States",33.635202,-117.739169
 92624,Gems N' Loans - Dana Point,"34291 Doheny Park Rd, Dana Point, CA 92624, United States",33.4651203,-117.6788376
-92626,Direct Payday Lenders USA,"2973 Harbor Blvd #106, Costa Mesa, CA 92626, United States",33.67939700000001,-117.921323
+92626,Direct Payday Lenders USA,"2973 Harbor Blvd #106, Costa Mesa, CA 92626, United States",33.679397,-117.921323
 92626,"check n go, Check `n Go","Costa Mesa, CA 92626, United States",33.6804845,-117.8862589
 92626,Case Advance,"650 Town Center Dr #1850, Costa Mesa, CA 92626, United States",33.6932263,-117.882809
 92627,Cashback Loans,"370 E 17th St Ste C, Costa Mesa, CA 92627, United States",33.6322172,-117.9129357
@@ -1174,7 +1174,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 92627,Motorsport Loan,"1599 Superior Ave, Costa Mesa, CA 92627, United States",33.6321571,-117.9280581
 92629,Get Auto Car Loans Dana Point CA,"33864 El Encanto Ave, Dana Point, CA 92629, United States",33.470851,-117.701723
 92629,Union Bank,"24532 Del Prado Ave STE A, Dana Point, CA 92629, United States",33.4653302,-117.7014835
-92630,Payday Money Centers - Lake Forest,"23775-B, El Toro Rd, Lake Forest, CA 92630, United States",33.61736000000001,-117.705527
+92630,Payday Money Centers - Lake Forest,"23775-B, El Toro Rd, Lake Forest, CA 92630, United States",33.61736,-117.705527
 92630,Payday Loans Lake Forest,"23591 El Toro Rd, Lake Forest, CA 92630, United States",33.6218001,-117.6996018
 92630,Paymax Checks & Loans,"23354 El Toro Rd, Lake Forest, CA 92630, United States",33.6223874,-117.6958305
 92630,Cash My Check,"24601 Raymond Way, Lake Forest, CA 92630, United States",33.6217554,-117.7005223
@@ -1245,7 +1245,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 92701,Oportun,"431 E First St, Santa Ana, CA 92701, United States",33.7463257,-117.8631295
 92701,Oportun,"1015 S Main St, Santa Ana, CA 92701, United States",33.7350359,-117.8672265
 92703,Oportun,"230 N Harbor Blvd, Santa Ana, CA 92703, United States",33.7467259,-117.9216519
-92704,Cashback Loans,"2413 S Fairview St Ste I, Santa Ana, CA 92704, United States",33.71397049999999,-117.907261
+92704,Cashback Loans,"2413 S Fairview St Ste I, Santa Ana, CA 92704, United States",33.7139705,-117.907261
 92704,Check `n Go,"1311 W Warner Ave, Santa Ana, CA 92704, United States",33.7164317,-117.8861332
 92704,Check Into Cash,"744 S Harbor Blvd, Santa Ana, CA 92704, United States",33.737781,-117.921526
 92704,LoanNow,"3100 S Harbor Blvd #280, Santa Ana, CA 92704, United States",33.7052454,-117.9202775
@@ -1264,7 +1264,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 92780,Payday Money Centers Tustin,"1450 El Camino Real, Tustin, CA 92780, United States",33.734264,-117.815265
 92780,Check `n Go,"1090 Irvine Blvd, Tustin, CA 92780, United States",33.7475896,-117.8108512
 92780,Check Into Cash,"13812 Newport Ave Suite 106, Tustin, CA 92780, United States",33.7399954,-117.8197173
-92780,Cool Cash,"13662 Newport Ave, Tustin, CA 92780, United States",33.74156800000001,-117.817507
+92780,Cool Cash,"13662 Newport Ave, Tustin, CA 92780, United States",33.741568,-117.817507
 92780,Transpacific Currency Services (TCS) - Tustin,"14151 Red Hill Ave, Tustin, CA 92780, United States",33.732431,-117.817517
 92780,"check n go, Check `n Go Store Directory","1090 Irvine Blvd, Tustin, CA 92780, United States",33.7475898,-117.8108509
 92780,OneMain Financial,"13818 Red Hill Ave, Tustin, CA 92780, United States",33.7347619,-117.8125998
@@ -1334,7 +1334,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 92882,Oportun,"1130 W 6th St, Corona, CA 92882, United States",33.8760086,-117.5852557
 92882,Cash 4 Checks,"1038 W 6th St, Corona, CA 92882, United States",33.8768224,-117.5816055
 92882,DolEx Dollar Express,"1520 W 6th St STE 102, Corona, CA 92882, United States",33.8779279,-117.5952001
-92882,Get Auto Title Loans,"1307 W 6th St suite 219-d, Corona, CA 92882, United States",33.87864800000001,-117.589468
+92882,Get Auto Title Loans,"1307 W 6th St suite 219-d, Corona, CA 92882, United States",33.878648,-117.589468
 92882,Montana Capital Car Title Loans,"1492 W 6th St Suite 201, Corona, CA 92882, United States",33.877837,-117.5940186
 92886,Quick Cash Funding,"Yorba Linda, CA 92886, United States",33.9011405,-117.7959713
 92886,Montana Capital Car Title Loans,"17071 Imperial Hwy a12, Yorba Linda, CA 92886, United States",33.9012603,-117.8336967
@@ -1365,7 +1365,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 93030,Check Into Cash,"420 S Ventura Rd, Oxnard, CA 93030, United States",34.1987158,-119.1935166
 93030,Checkmate,"1460 Doris Ave, Oxnard, CA 93030, United States",34.2079619,-119.1943021
 93030,Frontera Cash And Loan,"612 Cooper Rd, Oxnard, CA 93030, United States",34.204291,-119.17236
-93030,TFC Title Loans Oxnard CA,"344 S 5th St, Oxnard, CA 93030, United States",34.19711789999999,-119.180939
+93030,TFC Title Loans Oxnard CA,"344 S 5th St, Oxnard, CA 93030, United States",34.1971179,-119.180939
 93030,Fox Semi Truck Title Loans - Oxnard,"1825 N Oxnard Blvd #15b, Oxnard, CA 93030, United States",34.218213,-119.177832
 93030,Checkmate,"1420 W Channel Islands Blvd, Oxnard, CA 93030, United States",34.175313,-119.194271
 93030,Don Max Check Cashing,"100 E 5th St, Oxnard, CA 93030, United States",34.1974546,-119.1771761
@@ -1389,7 +1389,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 93060,Advance America,"550 W Main St Ste. C, Santa Paula, CA 93060, United States",34.34638,-119.08133
 93060,Advance America,"Next to Subway US, 550 W Main St Ste. C, Santa Paula, CA 93060, United States",34.3541659,-119.0592705
 93060,5 Star Car Title Loans,"1206 W Main St, Santa Paula, CA 93060, United States",34.341009,-119.0847778
-93060,Triple C Mortgage Inc,"138 N 10th St, Santa Paula, CA 93060, United States",34.35525520000001,-119.0607809
+93060,Triple C Mortgage Inc,"138 N 10th St, Santa Paula, CA 93060, United States",34.3552552,-119.0607809
 93063,Check Into Cash,"3977 Cochran St ste b, Simi Valley, CA 93063, United States",34.280335,-118.718269
 93065,Fernando's Check Cashing,"2950 Cochran St # D, Simi Valley, CA 93065, United States",34.2785056,-118.7380192
 93065,ACE Cash Express,"1177A E Los Angeles Ave, Simi Valley, CA 93065, United States",34.273034,-118.776745
@@ -1410,7 +1410,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 93101,Cornerstone Home Lending Inc. Mortgage Lenders Santa Barbara – Refinancing & VA home loan,"1826 State St, Santa Barbara, CA 93101, United States",34.4297059,-119.7127593
 93101,"Vicky Reese - Caliber Home Loans, Inc.","801 Garden St #200, Santa Barbara, CA 93101, United States",34.4227828,-119.6963794
 93101,First Republic Bank,"1200 State St, Santa Barbara, CA 93101, United States",34.4236553,-119.7044255
-93101,Santa Barbara Commercial Fund,"1216 State St #404, Santa Barbara, CA 93101, United States",34.42383840000001,-119.7047
+93101,Santa Barbara Commercial Fund,"1216 State St #404, Santa Barbara, CA 93101, United States",34.4238384,-119.7047
 93101,Bank of the Sierra,"21 E Carrillo St ste 160, Santa Barbara, CA 93101, United States",34.4221901,-119.7016338
 93101,Bank of the West,"1036 State St, Santa Barbara, CA 93101, United States",34.422449,-119.702916
 93101,Union Bank,"20 E Carrillo St, Santa Barbara, CA 93101, United States",34.4220663,-119.7010522
@@ -1433,7 +1433,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 93108,Raymond James Financial Services,"550 Periwinkle Ln, Santa Barbara, CA 93108, United States",34.4379408,-119.6293878
 93109,Union Bank,"1960 Cliff Dr, Santa Barbara, CA 93109, United States",34.402273,-119.722637
 93110,Santa Barbara Teachers Federal Credit Union,"3970 La Colina Rd # 12, Santa Barbara, CA 93110, United States",34.4445465,-119.753983
-93111,Gatl Santa Barbara Ca,"5142 Hollister Avenue # 522-k, Santa Barbara, CA 93111, United States",34.43627439999999,-119.8027945
+93111,Gatl Santa Barbara Ca,"5142 Hollister Avenue # 522-k, Santa Barbara, CA 93111, United States",34.4362744,-119.8027945
 93111,Union Bank,"5190 Hollister Ave, Goleta, CA 93111, United States",34.4351017,-119.8041077
 93111,Gert Walter & Associates,"5082 Rhoads Ave, Santa Barbara, CA 93111, United States",34.4271615,-119.8010768
 93117,Advance America,"159 N Fairview Ave, Goleta, CA 93117, United States",34.44176,-119.83252
@@ -1458,7 +1458,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 93215,Montana Capital Car Title Loans,"1113 Ellington St, Delano, CA 93215, United States",35.7700065,-119.2522657
 93215,Lucky Check Cashing,"1722 High St., Delano, CA 93215, United States",35.77794,-119.2492881
 93215,Bank of the Sierra,"1126 Main St, Delano, CA 93215, United States",35.7714183,-119.2458423
-93221,Bank of the Sierra,"1103 W Visalia Rd, Exeter, CA 93221, United States",36.29769820000001,-119.1542692
+93221,Bank of the Sierra,"1103 W Visalia Rd, Exeter, CA 93221, United States",36.2976982,-119.1542692
 93223,"check n go, Check `n Go Store Directory","1555 Farmersville Rd #211, Farmersville, CA 93223, United States",36.3113087,-119.2078741
 93230,Advance America,"410 N 11th Ave Ste. 103, Hanford, CA 93230, United States",36.329063,-119.65556
 93230,Check `n Go,"385 N 11th Ave, Hanford, CA 93230, United States",36.327668,-119.654484
@@ -1486,7 +1486,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 93257,Oportun,"351 E Olive Ave, Porterville, CA 93257, United States",36.063336,-119.008903
 93257,OneMain Financial,"367 N 2nd St, Porterville, CA 93257, United States",36.0723371,-119.0153365
 93257,5 Star Car Title Loans,"67 W Thurman Ave, Porterville, CA 93257, United States",36.0712764,-119.017754
-93257,DolEx Dollar Express,"284 S Main St, Porterville, CA 93257, United States",36.06033499999999,-119.016281
+93257,DolEx Dollar Express,"284 S Main St, Porterville, CA 93257, United States",36.060335,-119.016281
 93257,Beneficial State Bank,"268 N Main St, Porterville, CA 93257, United States",36.0704017,-119.0160101
 93257,Porterville Pawn,"1488 W Olive Ave, Porterville, CA 93257, United States",36.0661892,-119.0506333
 93257,Bank of the Sierra,"1498 Olive Ave, Porterville, CA 93257, United States",36.0660815,-119.0512805
@@ -1494,8 +1494,8 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 93257,Sigue Envios de Dinero,"353 E Olive Ave, Porterville, CA 93257, United States",36.0642034,-119.0089222
 93257,Tucoemas Federal Credit Union,"1389 W Henderson Ave, Porterville, CA 93257, United States",36.0797484,-119.0481974
 93257,Union Bank,"229 N Main St, Porterville, CA 93257, United States",36.0697622,-119.0164989
-93263,Swift Title Loans Shafter,"718 E Lerdo Hwy, Shafter, CA 93263, United States",35.50022860000001,-119.2645035
-93263,Westamerica Bank,"600 James St, Shafter, CA 93263, United States",35.50116130000001,-119.2742579
+93263,Swift Title Loans Shafter,"718 E Lerdo Hwy, Shafter, CA 93263, United States",35.5002286,-119.2645035
+93263,Westamerica Bank,"600 James St, Shafter, CA 93263, United States",35.5011613,-119.2742579
 93263,Mission Bank - Shafter,"1110 E Lerdo Hwy, Shafter, CA 93263, United States",35.500197,-119.260083
 93263,Bank of America Financial Center,"261 Central Ave, Shafter, CA 93263, United States",35.5019387,-119.2759818
 93268,Westamerica Bank,"811 Center St, Taft, CA 93268, United States",35.1424155,-119.4639433
@@ -1530,7 +1530,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 93291,Oportun,"3112 N Dinuba Blvd, Visalia, CA 93291, United States",36.357271,-119.2947526
 93291,"Kings Mortgage Services, Inc.","3700 W Mineral King Ave, Visalia, CA 93291, United States",36.3279728,-119.3321503
 93291,Automated Cash Management,"110 S Akers St, Visalia, CA 93291, United States",36.3292996,-119.3491968
-93292,Advance America,"1436 N Ben Maddox Way, Visalia, CA 93292, United States",36.34236500000001,-119.277214
+93292,Advance America,"1436 N Ben Maddox Way, Visalia, CA 93292, United States",36.342365,-119.277214
 93292,Cash Maxx,"1712 E Main St, Visalia, CA 93292, United States",36.3305669,-119.2738008
 93292,ACE Cash Express,"1550 N Ben Maddox Way, Visalia, CA 93292, United States",36.342996,-119.277395
 93292,Money Mart,"1655 E Noble Ave, Visalia, CA 93292, United States",36.3256154,-119.2745021
@@ -1548,13 +1548,13 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 93301,Family Car Title Loans,"2401 M St #300, Bakersfield, CA 93301, United States",35.3815164,-119.0156686
 93301,Investors Realty,"220 Chester Ave, Bakersfield, CA 93301, United States",35.3577236,-119.018583
 93304,ACE Cash Express,"2707 S H St A, Bakersfield, CA 93304, United States",35.329968,-119.021491
-93304,Check Into Cash,"2350 White Ln Ste B, Bakersfield, CA 93304, United States",35.31800700000001,-119.029077
+93304,Check Into Cash,"2350 White Ln Ste B, Bakersfield, CA 93304, United States",35.318007,-119.029077
 93304,Net America Lending,"324 Oak St # P, Bakersfield, CA 93304, United States",35.3603099,-119.0384035
 93304,Fastrip Financial,"4013 S H St, Bakersfield, CA 93304, United States",35.318013,-119.0217379
 93304,Oportun,"2705 S H St, Bakersfield, CA 93304, United States",35.3303075,-119.022916
 93305,Money Mart,"2011 Union Ave, Bakersfield, CA 93305, United States",35.3777976,-119.0034753
 93305,Friendly Loan Co,"1013 Niles St, Bakersfield, CA 93305, United States",35.3805221,-118.9858805
-93306,Fast Auto and Payday Loans,"3810 Niles St, Bakersfield, CA 93306, United States",35.37633599999999,-118.9417099
+93306,Fast Auto and Payday Loans,"3810 Niles St, Bakersfield, CA 93306, United States",35.376336,-118.9417099
 93306,Check Into Cash,"2509 Mt Vernon Ave Suite 111, Bakersfield, CA 93306, United States",35.3909632,-118.9658296
 93306,ACE Cash Express,"6465 Niles St, Bakersfield, CA 93306, United States",35.3749148,-118.9337633
 93306,Advance America,"2600 Oswell St Space C, Bakersfield, CA 93306, United States",35.39252,-118.95044
@@ -1588,7 +1588,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 93309,OneMain Financial,"5111 Ming Ave, Bakersfield, CA 93309, United States",35.3377176,-119.0596453
 93312,OneMain Financial,"9680 Hageman Rd ste d, Bakersfield, CA 93312, United States",35.4003659,-119.1094648
 93401,Payday Loans San Luis Obispo,"San Luis Obispo, CA 93401, United States",35.2827524,-120.6596156
-93401,"check n go, Check `n Go Store Directory","3970 Broad St, San Luis Obispo, CA 93401, United States",35.24928269999999,-120.6431794
+93401,"check n go, Check `n Go Store Directory","3970 Broad St, San Luis Obispo, CA 93401, United States",35.2492827,-120.6431794
 93401,OneMain Financial,"3920 Broad St Ste 5, San Luis Obispo, CA 93401, United States",35.2495661,-120.641624
 93401,Mid Coast Capital,"688 California Blvd, San Luis Obispo, CA 93401, United States",35.288666,-120.656548
 93401,Family Car Title Loans,"3046 S Higuera St #B, San Luis Obispo, CA 93401, United States",35.2581361,-120.6688978
@@ -1596,8 +1596,8 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 93401,San Luis Financial,"1204 Nipomo St, San Luis Obispo, CA 93401, United States",35.2773394,-120.6648075
 93401,Acquire Mortgage And Real Estate,"1405 Garden St, San Luis Obispo, CA 93401, United States",35.27701,-120.6615696
 93401,CoastHills Credit Union,"751 Marsh St, San Luis Obispo, CA 93401, United States",35.2785402,-120.662909
-93401,SESLOC Federal Credit Union,"3807 Broad St, San Luis Obispo, CA 93401, United States",35.25019169999999,-120.6449434
-93401,Murphy Bank,"892 Aerovista Pl #110, San Luis Obispo, CA 93401, United States",35.24305700000001,-120.6408338
+93401,SESLOC Federal Credit Union,"3807 Broad St, San Luis Obispo, CA 93401, United States",35.2501917,-120.6449434
+93401,Murphy Bank,"892 Aerovista Pl #110, San Luis Obispo, CA 93401, United States",35.243057,-120.6408338
 93401,SLO Credit Union,"1220 Osos St, San Luis Obispo, CA 93401, United States",35.2800187,-120.6596195
 93401,American Riviera Bank San Luis Obispo Branch & Lending Center,"1085 Higuera St, San Luis Obispo, CA 93401, United States",35.2815399,-120.6594896
 93401,First California Bank,"1001 Marsh St, San Luis Obispo, CA 93401, United States",35.2802571,-120.6598027
@@ -1629,7 +1629,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 93433,Advance America,"1602 W Grand Ave, Grover Beach, CA 93433, United States",35.12062,-120.611404
 93433,Aloha Lending,"1265 Seabright Ave, Grover Beach, CA 93433, United States",35.117592,-120.616073
 93433,Aloha Blue Payday Advance,"1543 W Grand Ave, Grover Beach, CA 93433, United States",35.1215555,-120.6124383
-93436,Payday Loan Today,"640 N H St, Lompoc, CA 93436, United States",34.64934100000001,-120.4567358
+93436,Payday Loan Today,"640 N H St, Lompoc, CA 93436, United States",34.649341,-120.4567358
 93436,Advance America,"736 N H St, Lompoc, CA 93436, United States",34.65001,-120.45732
 93436,Check Into Cash,"1321-A N H St, Lompoc, CA 93436, United States",34.660279,-120.459125
 93436,RPM Lenders,"205 W Pine Ave, Lompoc, CA 93436, United States",34.6505301,-120.4592559
@@ -1641,7 +1641,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 93436,Western Union,"Check Into Cash, 1321 N H St Ste A, Lompoc, CA 93436, United States",34.6603791,-120.4590734
 93436,Union Bank,"805 N H St, Lompoc, CA 93436, United States",34.6506703,-120.4581759
 93436,Vivid Financial Management,"511 N H St, Lompoc, CA 93436, United States",34.6459264,-120.4582434
-93442,Check Into Cash,"1065 Kennedy Way, Morro Bay, CA 93442, United States",35.36952100000001,-120.845254
+93442,Check Into Cash,"1065 Kennedy Way, Morro Bay, CA 93442, United States",35.369521,-120.845254
 93444,CoastHills Credit Union,"542 W Tefft St, Nipomo, CA 93444, United States",35.0369653,-120.487485
 93444,Mechanics Bank - Nipomo Branch,"615 W Tefft St, Nipomo, CA 93444, United States",35.0348883,-120.4873051
 93446,Advance America,"538 Spring St, Paso Robles, CA 93446, United States",35.619858,-120.69038
@@ -1695,12 +1695,12 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 93527,Dollar General,"6764 Mountain View Ave, Inyokern, CA 93527, United States",35.6455674,-117.8183578
 93527,Kern County Fire Station 73,"6919 Monache Mountain Ave, Inyokern, CA 93527, United States",35.6524826,-117.8246167
 93534,Check Cash Loans,"43807 10th St W UNIT 1, Lancaster, CA 93534, United States",34.6788114,-118.1486239
-93534,Advance America,"1234 W Ave K Space E-1, Lancaster, CA 93534, United States",34.67325599999999,-118.15384
+93534,Advance America,"1234 W Ave K Space E-1, Lancaster, CA 93534, United States",34.673256,-118.15384
 93534,California Check Cashing Stores,"412 W Ave J suite a, Lancaster, CA 93534, United States",34.6892161,-118.1336494
 93534,ACE Cash Express,"1821 W Ave I #109, Lancaster, CA 93534, United States",34.705232,-118.164148
 93534,ACE Cash Express,"43458 10th St W #104, Lancaster, CA 93534, United States",34.672761,-118.147179
 93534,Oportun,"1801 W Ave I, Lancaster, CA 93534, United States",34.7047432,-118.1633979
-93534,Cash It Quick,"43535 Gadsden Ave F, Lancaster, CA 93534, United States",34.67439299999999,-118.1440417
+93534,Cash It Quick,"43535 Gadsden Ave F, Lancaster, CA 93534, United States",34.674393,-118.1440417
 93534,Car Cash Loans,"1017 W Ave J, Lancaster, CA 93534, United States",34.6896166,-118.1487721
 93534,Platinum Jewelry & Loan Inc.,"44617 Sierra Hwy, Lancaster, CA 93534, United States",34.693341,-118.136561
 93534,Paid Today Car Title Loans,"43845 10th St W, Lancaster, CA 93534, United States",34.6800846,-118.1484285
@@ -1715,7 +1715,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 93536,"check n go, Check `n Go Store Directory","2044 W Ave K, Lancaster, CA 93536, United States",34.6743295,-118.1675784
 93546,Eastern Sierra Community Bank,"307 Old Mammoth Rd, Mammoth Lakes, CA 93546, United States",37.6417274,-118.9660774
 93546,Union Bank,"437 Old Mammoth Rd, Mammoth Lakes, CA 93546, United States",37.6398251,-118.965919
-93546,Porter & O'dell Accounting & Consulting,"549 Old Mammoth Rd # 9, Mammoth Lakes, CA 93546, United States",37.63802020000001,-118.966032
+93546,Porter & O'dell Accounting & Consulting,"549 Old Mammoth Rd # 9, Mammoth Lakes, CA 93546, United States",37.6380202,-118.966032
 93546,"Mammoth Lakes Housing, Inc.","587 Old Mammoth Rd #4, Mammoth Lakes, CA 93546, United States",37.6375968,-118.9660323
 93546,Diversified Mortgage Inc,"101 Old Mammoth Rd, Mammoth Lakes, CA 93546, United States",37.6450754,-118.9658494
 93546,Wells Fargo ATM,"481 Old Mammoth Rd, Mammoth Lakes, CA 93546, United States",37.6386908,-118.9654604
@@ -1728,7 +1728,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 93550,California Check Cashing Stores,"803 E Palmdale Blvd, Palmdale, CA 93550, United States",34.5797654,-118.1155825
 93550,Oportun,"1823 E Palmdale Blvd, Palmdale, CA 93550, United States",34.5800959,-118.0949334
 93550,"check n go, Check `n Go Store Directory","228 E Palmdale Blvd, Palmdale, CA 93550, United States",34.5788132,-118.1266632
-93551,Lendmark Financial Services LLC,"40008 10th St W Suite E, Palmdale, CA 93551, United States",34.60951319999999,-118.1463899
+93551,Lendmark Financial Services LLC,"40008 10th St W Suite E, Palmdale, CA 93551, United States",34.6095132,-118.1463899
 93551,OneMain Financial,"39178 10th St W Suite A, Palmdale, CA 93551, United States",34.594835,-118.1465135
 93551,Express Cash Advance,"39609 10th St W, Palmdale, CA 93551, United States",34.6030604,-118.146769
 93552,Advance America,"4654 E Ave S Ste. H, Palmdale, CA 93552, United States",34.556747,-118.04583
@@ -1737,7 +1737,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 93555,Check Into Cash,"501 N China Lake Blvd suite b-102, Ridgecrest, CA 93555, United States",35.630033,-117.670219
 93555,1 800LOANMART,"Ridgecrest, CA 93555, United States",35.6224561,-117.6708966
 93555,Navy Federal Credit Union,"234 N Balsam St, Ridgecrest, CA 93555, United States",35.6251403,-117.6708296
-93555,AltaOne Federal Credit Union,"701 S China Lake Blvd, Ridgecrest, CA 93555, United States",35.61096560000001,-117.671215
+93555,AltaOne Federal Credit Union,"701 S China Lake Blvd, Ridgecrest, CA 93555, United States",35.6109656,-117.671215
 93555,AltaOne Federal Credit Union,"1115 King Ave, Ridgecrest, CA 93555, United States",35.6519745,-117.6446422
 93555,Navy Marine Corps Relief Society,"610 Blandy Ave, Ridgecrest, CA 93555, United States",35.6547124,-117.6552706
 93560,First Command Financial Planning,"1431 Rosamond Blvd # 16, Rosamond, CA 93560, United States",34.8654761,-118.1569575
@@ -1750,7 +1750,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 93561,Union Bank,"665 Tucker Rd, Tehachapi, CA 93561, United States",35.1271054,-118.4680767
 93561,Bank of the Sierra,"224 W F St, Tehachapi, CA 93561, United States",35.1311864,-118.4506586
 93561,MoneyGram,"841 Tucker Rd, Tehachapi, CA 93561, United States",35.122843,-118.468633
-93561,Western Union,"Rite Aid, 811 Tucker Rd, Tehachapi, CA 93561, United States",35.12360779999999,-118.4691513
+93561,Western Union,"Rite Aid, 811 Tucker Rd, Tehachapi, CA 93561, United States",35.1236078,-118.4691513
 93561,MoneyGram,"1121 W Valley Blvd G, Tehachapi, CA 93561, United States",35.1247425,-118.4687094
 93610,Payday Services Plus,"413 W Robertson Blvd # E, Chowchilla, CA 93610, United States",37.120902,-120.261909
 93610,Raymond James Financial Services,"305 Trinity Ave, Chowchilla, CA 93610, United States",37.1210253,-120.2599691
@@ -1781,7 +1781,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 93635,Advance America,"1325 E Pacheco Blvd, Los Banos, CA 93635, United States",37.055473,-120.836655
 93635,Check Into Cash,"2160 E Pacheco Blvd suite d, Los Banos, CA 93635, United States",37.0580624,-120.8220405
 93635,Check `n Go,"1561 W Pacheco Blvd Suite 2, Los Banos, CA 93635, United States",37.0563887,-120.8796121
-93635,California Check Cashing Stores,"1060 E Pacheco Blvd ste a, Los Banos, CA 93635, United States",37.05727419999999,-120.8412411
+93635,California Check Cashing Stores,"1060 E Pacheco Blvd ste a, Los Banos, CA 93635, United States",37.0572742,-120.8412411
 93635,Top Auto Car Loans Los Banos CA,"212 San Lorenzo St #6458, Los Banos, CA 93635, United States",37.067432,-120.8293236
 93635,Chase Bank,"550 K St, Los Banos, CA 93635, United States",37.059339,-120.849407
 93635,Bank of America ATM,"556 I St, Los Banos, CA 93635, United States",37.0612624,-120.8479653
@@ -1820,7 +1820,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 93650,Check Into Cash,"7363 N Blackstone Ave, Pinedale, CA 93650, United States",36.843836,-119.791121
 93650,Montana Capital Car Title Loans,"7133 N Blackstone Ave, Fresno, CA 93650, United States",36.8398558,-119.7905761
 93654,Advance America,"985 W Manning Ave, Reedley, CA 93654, United States",36.602886,-119.45902
-93654,Check `n Go,"593 I St, Reedley, CA 93654, United States",36.60126229999999,-119.4609976
+93654,Check `n Go,"593 I St, Reedley, CA 93654, United States",36.6012623,-119.4609976
 93657,Advance America,"285 Academy Ave, Sanger, CA 93657, United States",36.71189,-119.55811
 93657,California Check Cashing Stores,"516 Academy Ave, Sanger, CA 93657, United States",36.7089656,-119.5559593
 93657,"check n go, Check `n Go Store Directory","1501 Academy Ave #106, Sanger, CA 93657, United States",36.695455,-119.5546156
@@ -1836,7 +1836,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 93702,Advance America,"4195 E Belmont Ave, Fresno, CA 93702, United States",36.750835,-119.75474
 93702,ACE Cash Express,"4796 E Kings Canyon Rd, Fresno, CA 93702, United States",36.735553,-119.736627
 93702,Oportun,"3190 E Tulare Ave, Fresno, CA 93702, United States",36.7421745,-119.7709428
-93702,TitleMax Title Loans,"4785 E Kings Canyon Rd, Fresno, CA 93702, United States",36.73616070000001,-119.7372088
+93702,TitleMax Title Loans,"4785 E Kings Canyon Rd, Fresno, CA 93702, United States",36.7361607,-119.7372088
 93702,Montana Capital Car Title Loans,"4411 E Belmont Ave, Fresno, CA 93702, United States",36.750771,-119.751826
 93702,Montana Capital Car Title Loans,"3618 E Ventura Ave, Fresno, CA 93702, United States",36.7357375,-119.7632729
 93703,Check `n Go,"3068 N Cedar Ave, Fresno, CA 93703, United States",36.778887,-119.75389
@@ -1850,11 +1850,11 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 93710,Advance America,"5054 N Blackstone Ave Ste. 102, Fresno, CA 93710, United States",36.809624,-119.79008
 93710,California Budget Finance,"785 E Shaw Ave, Fresno, CA 93710, United States",36.8081317,-119.7726239
 93710,ACE Cash Express,"432 E Bullard Ave, Fresno, CA 93710, United States",36.823396,-119.780533
-93710,ACE Cash Express,"785 E Shaw Ave, Fresno, CA 93710, United States",36.80814400000001,-119.772643
+93710,ACE Cash Express,"785 E Shaw Ave, Fresno, CA 93710, United States",36.808144,-119.772643
 93710,Cash Plus,"1057 E Shaw Ave, Fresno, CA 93710, United States",36.8073002,-119.7711941
 93710,Super Cash,"6715 N Blackstone Ave, Fresno, CA 93710, United States",36.8350947,-119.7905947
 93710,Equity & Debt Consolidation,"1241 E Shaw Ave, Fresno, CA 93710, United States",36.8081927,-119.7668984
-93711,Advance America,"3630 W Shaw Ave, Fresno, CA 93711, United States",36.80979000000001,-119.85901
+93711,Advance America,"3630 W Shaw Ave, Fresno, CA 93711, United States",36.80979,-119.85901
 93711,Check Into Cash,"2087 W Shaw Ave, Fresno, CA 93711, United States",36.807522,-119.828602
 93711,Super Cash,"3209 W Shaw Ave # 110, Fresno, CA 93711, United States",36.8068165,-119.8501796
 93711,California Check Cashing Stores,"3077 W Shaw Ave #2, Fresno, CA 93711, United States",36.8079433,-119.8461781
@@ -1877,15 +1877,15 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 93726,Check `n Go,"4921 N Blackstone Ave, Fresno, CA 93726, United States",36.807325,-119.7909842
 93726,Advance America,"3890 N Cedar Ave #103, Fresno, CA 93726, United States",36.78832,-119.75396
 93726,California Check Cashing Stores,"3089 E Shields Ave, Fresno, CA 93726, United States",36.7809546,-119.773196
-93726,Oportun,"3850 N Cedar Ave, Fresno, CA 93726, United States",36.78758790000001,-119.7526235
-93726,Money Mart,"4043 N Blackstone Ave, Fresno, CA 93726, United States",36.79107440000001,-119.790786
+93726,Oportun,"3850 N Cedar Ave, Fresno, CA 93726, United States",36.7875879,-119.7526235
+93726,Money Mart,"4043 N Blackstone Ave, Fresno, CA 93726, United States",36.7910744,-119.790786
 93726,"MKG Money Service Business, Cash Advance Short Term Repayment Option Lender","4021 N Fresno St #107, Fresno, CA 93726, United States",36.7906154,-119.7827285
 93727,Fast Auto and Payday Loans,"4939 E Kings Canyon Rd, Fresno, CA 93727, United States",36.7361942,-119.7305751
 93727,Check Into Cash,"5247 E Kings Canyon Rd #105, Fresno, CA 93727, United States",36.736455,-119.716677
 93727,Check Into Cash,"4959 E Kings Canyon Rd, Fresno, CA 93727, United States",36.7362352,-119.729302
 93727,Advance America,"5650 #103, E Kings Canyon Rd, Fresno, CA 93727, United States",36.734764,-119.697624
 93727,California Check Cashing Stores,"4809 E Kings Canyon Rd #102, Fresno, CA 93727, United States",36.7363387,-119.7360074
-93727,Money Mart,"4848 E Kings Canyon Rd #101, Fresno, CA 93727, United States",36.73555290000001,-119.7334738
+93727,Money Mart,"4848 E Kings Canyon Rd #101, Fresno, CA 93727, United States",36.7355529,-119.7334738
 93727,Oportun,"4817 E Butler Ave, Fresno, CA 93727, United States",36.7296637,-119.7354806
 93727,Champion Financial Services,"4903 E Kings Canyon Rd suite 104-b, Fresno, CA 93727, United States",36.7374234,-119.7316559
 93728,Cash Now ETC.,"217 E Olive Ave, Fresno, CA 93728, United States",36.7579545,-119.8093722
@@ -1900,7 +1900,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 93905,Oportun,"624 Williams Rd, Salinas, CA 93905, United States",36.6799569,-121.6045806
 93905,Apoyo Financiero Salinas,"1577 N Sanborn Rd, Salinas, CA 93905, United States",36.695496,-121.5977695
 93905,Order Express,"628 Williams Rd, Salinas, CA 93905, United States",36.6802178,-121.604908
-93906,Payday Today Salinas Ca,"1860 N Main St ste n, Salinas, CA 93906, United States",36.71764140000001,-121.6547507
+93906,Payday Today Salinas Ca,"1860 N Main St ste n, Salinas, CA 93906, United States",36.7176414,-121.6547507
 93906,Advance America,"1948 N Main St, Salinas, CA 93906, United States",36.719975,-121.65447
 93906,Neighbor Payday Loans Salinas,"1611 Bunker Hill Way # 302, Salinas, CA 93906, United States",36.7004784,-121.6184331
 93906,Advance America,"977 N Main St, Salinas, CA 93906, United States",36.692654,-121.65302
@@ -1915,7 +1915,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 93923,Merrill Lynch Wealth Management Advisor David F Jenkins,"3775 Vía Nona Marie Suite 101, Carmel-By-The-Sea, CA 93923, United States",36.5384552,-121.9063116
 93923,Charles Schwab,"100 Clock Tower Pl Ste 100, Carmel-By-The-Sea, CA 93923, United States",36.5395363,-121.9052631
 93927,Chase Bank,"502 El Camino Real, Greenfield, CA 93927, United States",36.32719,-121.248372
-93927,Consumer Credit Counseling Services,"Greenfield, CA 93927, United States",36.32084469999999,-121.2438897
+93927,Consumer Credit Counseling Services,"Greenfield, CA 93927, United States",36.3208447,-121.2438897
 93930,Chase Bank,"509 Broadway St, King City, CA 93930, United States",36.2111734,-121.1291405
 93930,Edward Jones - Financial Advisor: Alexander S Gourley,"422 N Mildred Ave, King City, CA 93930, United States",36.2118812,-121.1286691
 93930,1st Capital Bank,"432 Broadway St, King City, CA 93930, United States",36.2117067,-121.1290005
@@ -1925,7 +1925,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 93933,Chase Bank,"264 Reservation Rd, Marina, CA 93933, United States",36.685001,-121.795333
 93940,Monterey Credit Union,"501 E Franklin St, Monterey, CA 93940, United States",36.599505,-121.889924
 93940,Wendy Bluhm - CMG Financial Mortgage Loan Officer NMLS# 876698,"665 Munras Ave Ste 200, Monterey, CA 93940, United States",36.5957839,-121.8928145
-93940,"Darius Livian, NMLS #255341, PrimeLending","24560 Silver Cloud Ct STE 105, Monterey, CA 93940, United States",36.57360690000001,-121.804976
+93940,"Darius Livian, NMLS #255341, PrimeLending","24560 Silver Cloud Ct STE 105, Monterey, CA 93940, United States",36.5736069,-121.804976
 93940,Bank of the West,"1050 Del Monte Center, Monterey, CA 93940, United States",36.5828614,-121.8992737
 93940,Union Bank,"495 Washington St, Monterey, CA 93940, United States",36.598096,-121.89255
 93940,Thrivent Financial,"150 Carmelito Ave, Monterey, CA 93940, United States",36.5923981,-121.8953266
@@ -1959,7 +1959,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 94022,Citibank,"130 Main St, Los Altos, CA 94022, United States",37.380004,-122.11506
 94025,Family Car Title Loans,"1047 El Camino Real UNIT D, Menlo Park, CA 94025, United States",37.4530851,-122.1825428
 94025,Car Title Loans California,"845 Oak Grove Ave, Menlo Park, CA 94025, United States",37.4512422,-122.1865974
-94025,"60monthloans, Inc.","640 Menlo Ave Suite 10, Menlo Park, CA 94025, United States",37.45215779999999,-122.182698
+94025,"60monthloans, Inc.","640 Menlo Ave Suite 10, Menlo Park, CA 94025, United States",37.4521578,-122.182698
 94025,MVP Car Title Loans,"101 Jefferson Dr 1st Floor, Menlo Park, CA 94025, United States",37.4832724,-122.1743833
 94025,Menlo Survey Federal Credit Union,"345 Middlefield Rd, Menlo Park, CA 94025, United States",37.4565356,-122.171259
 94025,Bank of the West,"701 Santa Cruz Ave, Menlo Park, CA 94025, United States",37.451959,-122.183911
@@ -1982,7 +1982,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 94063,California Check Cashing Stores,"1402 El Camino Real, Redwood City, CA 94063, United States",37.4813003,-122.2288023
 94063,Oportun,"1744 El Camino Real, Redwood City, CA 94063, United States",37.4783026,-122.2248603
 94063,Buy Sell Loan Pawn Shop,"590 Veterans Blvd, Redwood City, CA 94063, United States",37.4928028,-122.2331541
-94063,My Credit Union,"510 Veterans Blvd, Redwood City, CA 94063, United States",37.49383700000001,-122.234344
+94063,My Credit Union,"510 Veterans Blvd, Redwood City, CA 94063, United States",37.493837,-122.234344
 94063,Union Bank,"675 Jefferson Ave, Redwood City, CA 94063, United States",37.4877598,-122.2279489
 94063,Bank of the West,"900 Veterans Blvd Ste 100, Redwood City, CA 94063, United States",37.4898889,-122.2281845
 94063,Citibank,"1073 El Camino Real, Redwood City, CA 94063, United States",37.4841789,-122.2300203
@@ -2032,11 +2032,11 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 94110,Oportun,"3038 Mission St, San Francisco, CA 94110, United States",37.748583,-122.4183827
 94110,Oportun,"2400 Mission St, San Francisco, CA 94110, United States",37.7584829,-122.4193635
 94111,BCP Capitol Management,"1 Maritime Plz # 2525, San Francisco, CA 94111, United States",37.7954924,-122.3992123
-94112,California Check Cashing Stores,"5129 Mission St, San Francisco, CA 94112, United States",37.71669600000001,-122.440626
+94112,California Check Cashing Stores,"5129 Mission St, San Francisco, CA 94112, United States",37.716696,-122.440626
 94114,Umpqua Bank,"3938 24th St, San Francisco, CA 94114, United States",37.7517235,-122.4304402
 94115,Advance America,"1450 Fillmore St, San Francisco, CA 94115, United States",37.78301,-122.43225
 94118,OneMain Financial,"5221 Geary Blvd, San Francisco, CA 94118, United States",37.7803359,-122.4755805
-94122,Citibank,"2000 Irving St, San Francisco, CA 94122, United States",37.76361600000001,-122.47946
+94122,Citibank,"2000 Irving St, San Francisco, CA 94122, United States",37.763616,-122.47946
 94123,BigDaddy Loans,"1830 Union St, San Francisco, CA 94123, United States",37.7979884,-122.4295234
 94124,Palou Check Cashing,"4850 3rd St, San Francisco, CA 94124, United States",37.7343014,-122.3911523
 94124,Montana Capital Car Title Loans,"2110 Palou Ave, San Francisco, CA 94124, United States",37.7396222,-122.400308
@@ -2069,7 +2069,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 94501,Check Into Cash,"2210-F S Shore Center, Alameda, CA 94501, United States",37.757215,-122.2527753
 94501,Cash 1,"650 Central Ave Ste D, Alameda, CA 94501, United States",37.7707235,-122.2776299
 94501,California Check Cashing Stores,"1602 Webster St, Alameda, CA 94501, United States",37.7754035,-122.2764868
-94501,OneMain Financial,"2651 Blanding Ave ste f, Alameda, CA 94501, United States",37.76897719999999,-122.2322846
+94501,OneMain Financial,"2651 Blanding Ave ste f, Alameda, CA 94501, United States",37.7689772,-122.2322846
 94501,"check n go, Check `n Go Store Directory","811 Marina Village Pkwy, Alameda, CA 94501, United States",37.783371,-122.2745493
 94503,Redwood Credit Union,"406 Napa Junction Rd Suite 126, American Canyon, CA 94503, United States",38.1854992,-122.2547575
 94508,Silverado Credit Union,"1 Angwin Ave, Angwin, CA 94508, United States",38.5704838,-122.4430524
@@ -2095,7 +2095,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 94513,Fremont Bank,"200 Sand Creek Rd STE F, Brentwood, CA 94513, United States",37.9459193,-121.7008889
 94513,Wells Fargo Bank,"1115 2nd St, Brentwood, CA 94513, United States",37.9363073,-121.6977614
 94515,Bank of the West,"1317 Lincoln Ave, Calistoga, CA 94515, United States",38.577776,-122.579646
-94517,Travis Credit Union,"5441 Clayton Rd, Clayton, CA 94517, United States",37.95152909999999,-121.9555041
+94517,Travis Credit Union,"5441 Clayton Rd, Clayton, CA 94517, United States",37.9515291,-121.9555041
 94519,QUICK CHECK CASHING STORES,"3531 Clayton Rd, Concord, CA 94519, United States",37.9709531,-122.0114187
 94519,Apoyo Financiero Concord,"1803 Monument Blvd, Concord, CA 94519, United States",37.9563783,-122.0410031
 94519,Pacific Service Credit Union,"3000 Clayton Rd, Concord, CA 94519, United States",37.9737282,-122.0234476
@@ -2105,11 +2105,11 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 94520,Oportun,"2691 Monument Blvd, Concord, CA 94520, United States",37.9631138,-122.0329287
 94520,Get Auto Car Title Loans Concord Ca,"2151 Salvio St Ste A2-544, Concord, CA 94520, United States",37.9780021,-122.0343846
 94520,MVP Car Title Loans Concord,"1320 Willow Pass Rd Suite 600 A, Concord, CA 94520, United States",37.9683164,-122.0514502
-94520,Bay Equity Home Loans,"One Concord Center, 2300, Clayton Rd Suite 450, Concord, CA 94520, United States",37.97547280000001,-122.0299598
+94520,Bay Equity Home Loans,"One Concord Center, 2300, Clayton Rd Suite 450, Concord, CA 94520, United States",37.9754728,-122.0299598
 94520,Travis Credit Union,"2095 Diamond Blvd Suite 115, Concord, CA 94520, United States",37.9731479,-122.0576965
 94520,"Land Home Financial Services, Inc.","1355 Willow Way #250, Concord, CA 94520, United States",37.9721348,-122.0556959
 94520,Patelco Credit Union,"1390 Willow Pass Rd Suite 100, Concord, CA 94520, United States",37.9688196,-122.0514039
-94520,Umpqua Bank,"1900 Grant St, Concord, CA 94520, United States",37.97742969999999,-122.0327068
+94520,Umpqua Bank,"1900 Grant St, Concord, CA 94520, United States",37.9774297,-122.0327068
 94523,Check Into Cash,"561 Contra Costa Blvd, Pleasant Hill, CA 94523, United States",37.9795297,-122.0659481
 94523,Advance America,"1665 Contra Costa Blvd, Pleasant Hill, CA 94523, United States",37.95416,-122.0609
 94523,Cash 1,"1300 Contra Costa Blvd #28, Pleasant Hill, CA 94523, United States",37.9587682,-122.0606705
@@ -2120,7 +2120,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 94523,Pacific Service Credit Union,"1600 Contra Costa Blvd suite e, Pleasant Hill, CA 94523, United States",37.954505,-122.05973
 94523,Citibank,"2255 Contra Costa Blvd, Pleasant Hill, CA 94523, United States",37.9457108,-122.0608015
 94526,Fairway Independent Mortgage,"380 Diablo Rd Suite #202, Danville, CA 94526, United States",37.8234149,-121.9955175
-94526,Fremont Bank,"210A Railroad Ave, Danville, CA 94526, United States",37.82070909999999,-121.9994268
+94526,Fremont Bank,"210A Railroad Ave, Danville, CA 94526, United States",37.8207091,-121.9994268
 94530,Advance America,"10003 San Pablo Ave, El Cerrito, CA 94530, United States",37.90014,-122.30262
 94530,Check Into Cash,"11299-L, San Pablo Ave, El Cerrito, CA 94530, United States",37.920023,-122.315791
 94530,Check Into Cash,"10618 San Pablo Ave c, El Cerrito, CA 94530, United States",37.9116029,-122.3086945
@@ -2164,19 +2164,19 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 94541,5 Star Car Title Loans,"724 A St, Hayward, CA 94541, United States",37.6722933,-122.0875837
 94541,OneMain Financial,"21471 Foothill Blvd ste d, Hayward, CA 94541, United States",37.6834585,-122.091112
 94541,DolEx Dollar Express,"220 A St, Hayward, CA 94541, United States",37.668347,-122.096859
-94541,Eden Jewelry & Loan Co.,"22620 Mission Blvd, Hayward, CA 94541, United States",37.67207200000001,-122.0835526
+94541,Eden Jewelry & Loan Co.,"22620 Mission Blvd, Hayward, CA 94541, United States",37.672072,-122.0835526
 94544,Check Center,"24933 Santa Clara St, Hayward, CA 94544, United States",37.6487174,-122.0911822
 94544,Money Mart,"26953 Mission Blvd #N, Hayward, CA 94544, United States",37.6443519,-122.0627822
 94544,5 Star Car Title Loans,"384 Jackson St #8, Hayward, CA 94544, United States",37.6620334,-122.0849089
-94544,Oportun,"199 Harder Rd, Hayward, CA 94544, United States",37.64903169999999,-122.0750788
+94544,Oportun,"199 Harder Rd, Hayward, CA 94544, United States",37.6490317,-122.0750788
 94544,Apoyo Financiero Hayward,"1104 W Tennyson Rd, Hayward, CA 94544, United States",37.6310915,-122.0761648
 94544,DolEx Dollar Express,"480 W Tennyson Rd, Hayward, CA 94544, United States",37.6324356,-122.0669562
-94545,ACE Cash Express,"27300 Hesperian Blvd, Hayward, CA 94545, United States",37.63217100000001,-122.096409
+94545,ACE Cash Express,"27300 Hesperian Blvd, Hayward, CA 94545, United States",37.632171,-122.096409
 94545,Patelco Credit Union,"24703 Amador St, Hayward, CA 94545, United States",37.6540192,-122.0907533
-94546,California Check Cashing Stores,"3105 Castro Valley Blvd, Castro Valley, CA 94546, United States",37.69523119999999,-122.0810142
+94546,California Check Cashing Stores,"3105 Castro Valley Blvd, Castro Valley, CA 94546, United States",37.6952312,-122.0810142
 94549,Get Auto Car Title Loans Lafayette Ca,"3559 Mt Diablo Blvd Suite 334, Lafayette, CA 94549, United States",37.8915272,-122.1208707
-94549,Bank of the West,"3583 Mt Diablo Blvd, Lafayette, CA 94549, United States",37.89129399999999,-122.122153
-94550,Check Into Cash,"977 E Stanley Blvd, Livermore, CA 94550, United States",37.67774259999999,-121.7847492
+94549,Bank of the West,"3583 Mt Diablo Blvd, Lafayette, CA 94549, United States",37.891294,-122.122153
+94550,Check Into Cash,"977 E Stanley Blvd, Livermore, CA 94550, United States",37.6777426,-121.7847492
 94550,California Check Cashing Stores,"847 E Stanley Blvd, Livermore, CA 94550, United States",37.6778145,-121.78628
 94550,Family Car Title Loans,"342 S Livermore Ave, Livermore, CA 94550, United States",37.6806804,-121.7659421
 94550,Boyd Robinson - CMG Financial Mortgage Loan Officer NMLS# 313231,"1891 Second St, Livermore, CA 94550, United States",37.6795397,-121.772208
@@ -2189,11 +2189,11 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 94555,Cash 1,"34179 Fremont Blvd, Fremont, CA 94555, United States",37.5758402,-122.0435712
 94558,Advance America,"2401 California Blvd, Napa, CA 94558, United States",38.307423,-122.302826
 94558,Apoyo Financiero Napa,"2987 Jefferson St, Napa, CA 94558, United States",38.3153038,-122.2984313
-94558,Mobile Magic,"2025 Redwood Rd #6, Napa, CA 94558, United States",38.32037520000001,-122.3114824
+94558,Mobile Magic,"2025 Redwood Rd #6, Napa, CA 94558, United States",38.3203752,-122.3114824
 94558,Umpqua Bank,"3626 Bel Aire Plaza, Napa, CA 94558, United States",38.3224689,-122.3054087
 94558,Umpqua Bank,"3271 Browns Valley Rd, Napa, CA 94558, United States",38.3044757,-122.3298205
 94558,Travis Credit Union,"3263 Claremont Way, Napa, CA 94558, United States",38.3206677,-122.3005969
-94559,Umpqua Bank,"1500 Soscol Ave, Napa, CA 94559, United States",38.30475790000001,-122.2844052
+94559,Umpqua Bank,"1500 Soscol Ave, Napa, CA 94559, United States",38.3047579,-122.2844052
 94559,Flagstar Bank Home Loan Center,"2001 Jefferson St, Napa, CA 94559, United States",38.305631,-122.2952268
 94559,Redwood Credit Union,"1705 1st St, Napa, CA 94559, United States",38.297175,-122.292435
 94560,Check Center,"Newark Square, 5710 Thornton Ave, Newark, CA 94560, United States",37.5403882,-122.0275006
@@ -2246,7 +2246,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 94583,Bank of the West - Back office,"12677 Alcosta Blvd, San Ramon, CA 94583, United States",37.77541,-121.9612499
 94585,Check Into Cash,"131 Sunset Ave suite h, Suisun City, CA 94585, United States",38.245453,-122.019073
 94585,Advance America,"H, Next to Round Table Pizza US 288, Sunset Ave, Suisun City, CA 94585, United States",38.2445117,-122.0214001
-94585,Travis Credit Union,"131 Sunset Ave, Suisun City, CA 94585, United States",38.24522890000001,-122.0191513
+94585,Travis Credit Union,"131 Sunset Ave, Suisun City, CA 94585, United States",38.2452289,-122.0191513
 94587,Check Into Cash,"31822 Alvarado Blvd, Union City, CA 94587, United States",37.591812,-122.071018
 94587,Lucky Check Cashing,"31854 Alvarado Blvd, Union City, CA 94587, United States",37.5905986,-122.070162
 94587,Fremont Bank,"32000 Alvarado Blvd, Union City, CA 94587, United States",37.5897734,-122.0689523
@@ -2258,7 +2258,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 94589,Check Into Cash,"3716 Sonoma Blvd, Vallejo, CA 94589, United States",38.123788,-122.253816
 94589,Travis Credit Union,"1796 Tuolumne St, Vallejo, CA 94589, United States",38.124289,-122.237336
 94590,CashMax,"1657 Tennessee St, Vallejo, CA 94590, United States",38.1092042,-122.238499
-94590,California Check Cashing Stores,"240 Tennessee St, Vallejo, CA 94590, United States",38.11023050000001,-122.2583169
+94590,California Check Cashing Stores,"240 Tennessee St, Vallejo, CA 94590, United States",38.1102305,-122.2583169
 94590,Checks Cashed 4 Less,"2120 Sonoma Blvd, Vallejo, CA 94590, United States",38.1057845,-122.2546166
 94590,Oportun,"2107 Solano Ave, Vallejo, CA 94590, United States",38.1037269,-122.2309066
 94590,Montana Capital Car Title Loans,"808 Tennessee St, Vallejo, CA 94590, United States",38.1101026,-122.2493073
@@ -2310,7 +2310,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 94702,Check Center,"2005 San Pablo Ave, Berkeley, CA 94702, United States",37.8688893,-122.2917268
 94704,Union Bank,"2333 Shattuck Ave, Berkeley, CA 94704, United States",37.866973,-122.267239
 94706,5 Star Car Title Loans,"1172 San Pablo Ave, Berkeley, CA 94706, United States",37.8826095,-122.2960325
-94801,Check Center,"1190 Macdonald Ave, Richmond, CA 94801, United States",37.93461560000001,-122.3573346
+94801,Check Center,"1190 Macdonald Ave, Richmond, CA 94801, United States",37.9346156,-122.3573346
 94803,OneMain Financial,"3340 San Pablo Dam Rd, San Pablo, CA 94803, United States",37.961461,-122.325837
 94804,ACE Cash Express,"2300 Cutting Blvd, Richmond, CA 94804, United States",37.924906,-122.347334
 94804,5 Star Car Title Loans,"652 23rd St, Richmond, CA 94804, United States",37.9417626,-122.3472738
@@ -2351,19 +2351,19 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 94949,Community First Credit Union,"11 Digital Dr # D, Novato, CA 94949, United States",38.0709255,-122.5340705
 94949,"Applied Financial Services, Inc.","359 Bel Marin Keys Blvd #1, Novato, CA 94949, United States",38.0728454,-122.5377349
 94952,Loan Ranger Inc,"204 G St, Petaluma, CA 94952, United States",38.2316742,-122.6330616
-94952,Umpqua Bank,"201 Western Ave, Petaluma, CA 94952, United States",38.23323389999999,-122.6421678
-94952,Westamerica Bank,"11 5th St #105, Petaluma, CA 94952, United States",38.23228539999999,-122.6405103
+94952,Umpqua Bank,"201 Western Ave, Petaluma, CA 94952, United States",38.2332339,-122.6421678
+94952,Westamerica Bank,"11 5th St #105, Petaluma, CA 94952, United States",38.2322854,-122.6405103
 94954,Check Into Cash,"201 S McDowell Blvd B, Petaluma, CA 94954, United States",38.249285,-122.625152
 94954,"check n go, Check `n Go Store Directory","123 N McDowell Blvd, Petaluma, CA 94954, United States",38.248541,-122.6273124
 94954,Express Cash Advance,"2610 Lakeville Hwy, Petaluma, CA 94954, United States",38.2338232,-122.6037868
 94954,Umpqua Bank Home Lending,"1370 Redwood Way, Petaluma, CA 94954, United States",38.277857,-122.667432
 94954,Redwood Credit Union,"301 N McDowell Blvd, Petaluma, CA 94954, United States",38.2511986,-122.6303039
-94954,Rudolph Inc,"737 Southpoint Blvd # A, Petaluma, CA 94954, United States",38.25939169999999,-122.6491622
-94960,Chase Bank,"894 Sir Francis Drake Blvd, San Anselmo, CA 94960, United States",37.98122559999999,-122.5656545
+94954,Rudolph Inc,"737 Southpoint Blvd # A, Petaluma, CA 94954, United States",38.2593917,-122.6491622
+94960,Chase Bank,"894 Sir Francis Drake Blvd, San Anselmo, CA 94960, United States",37.9812256,-122.5656545
 95003,Thrivent Financial,"229 Sea Ridge Rd, Aptos, CA 95003, United States",36.9755771,-121.9130336
 95003,Thrivent Financial,"7970 Soquel Dr, Aptos, CA 95003, United States",36.9763429,-121.9049053
 95003,Thrivent Financial-Lutherans,"431 St Andrews Dr, Aptos, CA 95003, United States",36.9619428,-121.8843628
-95008,Check 2 Cash,"152 N San Tomas Aquino Rd # A, Campbell, CA 95008, United States",37.28814089999999,-121.97624
+95008,Check 2 Cash,"152 N San Tomas Aquino Rd # A, Campbell, CA 95008, United States",37.2881409,-121.97624
 95008,Security Loans,"450 E Hamilton Ave, Campbell, CA 95008, United States",37.2939791,-121.942245
 95008,Stearns Lending Inc,"51 E Campbell Ave # 130, Campbell, CA 95008, United States",37.2876535,-121.9484603
 95010,Advance America,"1955-B8, 41st Ave, Capitola, CA 95010, United States",36.97791,-121.96767
@@ -2398,7 +2398,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 95023,Esperanza Travel & Check Cash,"1270 San Juan Rd # A, Hollister, CA 95023, United States",36.85368,-121.419793
 95023,Chase Bank,"494 Tres Pinos Rd, Hollister, CA 95023, United States",36.839664,-121.393528
 95023,Mechanics Bank - Hollister Branch,"1730 Airline Hwy #310, Hollister, CA 95023, United States",36.8368699,-121.3898096
-95023,Su Casita Multi Servicios LLC,"193 McCray St Suite 304, Hollister, CA 95023, United States",36.85201259999999,-121.4018325
+95023,Su Casita Multi Servicios LLC,"193 McCray St Suite 304, Hollister, CA 95023, United States",36.8520126,-121.4018325
 95032,Gatl Auto Car Loans Los Gatos Ca,"15559 Union Ave Suite 3025-B, Los Gatos, CA 95032, United States",37.2424115,-121.9324693
 95035,California Check Cashing Stores,"30 S Abbott Ave, Milpitas, CA 95035, United States",37.4277457,-121.91312
 95035,Check Into Cash,"1217 E Calaveras Blvd, Milpitas, CA 95035, United States",37.436058,-121.886216
@@ -2411,7 +2411,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 95050,Franny Yen - The Loan Story,"275 Saratoga Avenue Suite 220 B, Santa Clara, CA 95050, United States",37.330185,-121.962997
 95050,Buy Sell Loan Inc,"2211 The Alameda, Santa Clara, CA 95050, United States",37.3443142,-121.9323223
 95050,Mission City Federal Credit Union,"1391 Franklin St, Santa Clara, CA 95050, United States",37.348497,-121.949115
-95051,Check `n Go,"2750 El Camino Real, Santa Clara, CA 95051, United States",37.35099580000001,-121.9766969
+95051,Check `n Go,"2750 El Camino Real, Santa Clara, CA 95051, United States",37.3509958,-121.9766969
 95051,HomeStreet Bank,"781 Lawrence Expy, Santa Clara, CA 95051, United States",37.3370147,-121.995199
 95051,KeyPoint Credit Union,"2805 Bowers Ave, Santa Clara, CA 95051, United States",37.3724291,-121.9768922
 95060,Advance America,"420 River St Ste. B, Santa Cruz, CA 95060, United States",36.982082,-122.029175
@@ -2428,7 +2428,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 95076,California Check Cashing Stores,"516 Main St, Watsonville, CA 95076, United States",36.912098,-121.7586133
 95076,"check n go, Check `n Go Store Directory","1441 Main St #101, Watsonville, CA 95076, United States",36.9164636,-121.7750849
 95076,Oportun,"316 Main St, Watsonville, CA 95076, United States",36.9095523,-121.7558091
-95076,Order Express,"314 Main St, Watsonville, CA 95076, United States",36.90954370000001,-121.7557306
+95076,Order Express,"314 Main St, Watsonville, CA 95076, United States",36.9095437,-121.7557306
 95076,Family Car Title Loans,"558 Main St #102, Watsonville, CA 95076, United States",36.912916,-121.7590174
 95076,Lewis Associates,"128 E Beach St, Watsonville, CA 95076, United States",36.9118056,-121.7544673
 95076,Santa Cruz Community CU,"590 Auto Center Dr #2a, Watsonville, CA 95076, United States",36.9166002,-121.767939
@@ -2437,11 +2437,11 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 95076,Western Union,"Check Cashing, 516 Main St, Watsonville, CA 95076, United States",36.912143,-121.7586804
 95110,Oportun,"201 Willow St, San Jose, CA 95110, United States",37.3189564,-121.8825601
 95111,Cash 1,"3826 Seven Trees Blvd #100, San Jose, CA 95111, United States",37.2842161,-121.8337312
-95111,California Check Cashing Stores,"4156 Monterey Rd #30, San Jose, CA 95111, United States",37.27786460000001,-121.8345103
+95111,California Check Cashing Stores,"4156 Monterey Rd #30, San Jose, CA 95111, United States",37.2778646,-121.8345103
 95111,California Check Cashing,"3826 Seven Trees Blvd, San Jose, CA 95111, United States",37.2842198,-121.8337478
 95111,Oportun,"2668 Monterey Rd #160, San Jose, CA 95111, United States",37.2956939,-121.8526969
 95112,ACE Cash Express,"456 E Hedding St, San Jose, CA 95112, United States",37.357927,-121.893541
-95112,Quick Cash Funding LLC | Car Title Loans,"777 N 1st St #420, San Jose, CA 95112, United States",37.35051139999999,-121.9017553
+95112,Quick Cash Funding LLC | Car Title Loans,"777 N 1st St #420, San Jose, CA 95112, United States",37.3505114,-121.9017553
 95112,TFC Title Loans - San Jose,"715 N 1st St #23, San Jose, CA 95112, United States",37.3496613,-121.9010033
 95112,Quicken Loans,"San Jose, CA 95112, United States",37.3456227,-121.8847222
 95113,"12M Loans, LLC","410 E Santa Clara St UNIT 805, San Jose, CA 95113, United States",37.340141,-121.8816652
@@ -2465,30 +2465,30 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 95125,Preferred Mortgage Loans,"1090 Lincoln Ave #9, San Jose, CA 95125, United States",37.3090979,-121.901215
 95126,Cash 1,"1101 W San Carlos St, San Jose, CA 95126, United States",37.3238071,-121.9091773
 95126,California Loan Co. Inc,"530 W San Carlos St, San Jose, CA 95126, United States",37.3252677,-121.8988124
-95127,Check Into Cash,"1040-D S White Rd, San Jose, CA 95127, United States",37.35865769999999,-121.8194844
-95127,California Check Cashing Stores,"1075 S White Rd #90, San Jose, CA 95127, United States",37.35651379999999,-121.8196676
+95127,Check Into Cash,"1040-D S White Rd, San Jose, CA 95127, United States",37.3586577,-121.8194844
+95127,California Check Cashing Stores,"1075 S White Rd #90, San Jose, CA 95127, United States",37.3565138,-121.8196676
 95127,TitleMax Title Loans,"2842 Story Rd Suite 20, San Jose, CA 95127, United States",37.3527563,-121.8231315
 95127,Oportun,"1070 S White Rd, San Jose, CA 95127, United States",37.3580246,-121.8182567
 95128,Check Into Cash,"1317 S Winchester Blvd, San Jose, CA 95128, United States",37.3002632,-121.95178
 95128,California Check Cashing Stores,"1304 S Winchester Blvd, San Jose, CA 95128, United States",37.3012323,-121.9494026
-95128,California Check Cashing Stores,"1720 W San Carlos St, San Jose, CA 95128, United States",37.32320370000001,-121.9229277
+95128,California Check Cashing Stores,"1720 W San Carlos St, San Jose, CA 95128, United States",37.3232037,-121.9229277
 95128,San Jose Car Title Loans,"949 S Winchester Blvd, San Jose, CA 95128, United States",37.3092648,-121.9506347
 95129,OneMain Financial,"5132 Stevens Creek Blvd, San Jose, CA 95129, United States",37.3219329,-121.9923908
 95131,Montana Capital Car Title Loans,"521 Charcot Ave STE 111, San Jose, CA 95131, United States",37.383977,-121.914335
-95133,California Check Cashing Stores,"2471 Berryessa Rd #5, San Jose, CA 95133, United States",37.38621820000001,-121.8619983
-95133,5 Star Car Title Loans,"1670 Berryessa Rd, San Jose, CA 95133, United States",37.37222209999999,-121.8740488
+95133,California Check Cashing Stores,"2471 Berryessa Rd #5, San Jose, CA 95133, United States",37.3862182,-121.8619983
+95133,5 Star Car Title Loans,"1670 Berryessa Rd, San Jose, CA 95133, United States",37.3722221,-121.8740488
 95138,Advance America,"5568 Monterey Rd, San Jose, CA 95138, United States",37.253113,-121.79709
 95202,5 Star Car Title Loans,"425 E Miner Ave, Stockton, CA 95202, United States",37.9567018,-121.2861905
 95202,5 Star Car Title Loans,"1801 N Wilson Way, Stockton, CA 95202, United States",37.9740731,-121.2770081
 95204,Money Mart,"2002 Pacific Ave, Stockton, CA 95204, United States",37.9707154,-121.2994699
-95204,Tony's Check Cashing,"2710 Country Club Blvd, Stockton, CA 95204, United States",37.96325400000001,-121.3358914
+95204,Tony's Check Cashing,"2710 Country Club Blvd, Stockton, CA 95204, United States",37.963254,-121.3358914
 95205,"Fast Auto Loans, Inc.","969 Waterloo Rd, Stockton, CA 95205, United States",37.9660306,-121.2736333
 95205,California Check Cashing Stores,"678 N Wilson Way #39, Stockton, CA 95205, United States",37.9616691,-121.2694209
 95205,Oportun,"678 N Wilson Way, Stockton, CA 95205, United States",37.9632002,-121.2715673
 95205,California Check Cashing Stores,"2638 Waterloo Rd, Stockton, CA 95205, United States",37.9781115,-121.2597573
 95205,Oportun,"1536 Waterloo Rd, Stockton, CA 95205, United States",37.9722221,-121.2675173
 95205,Oportun,"3310 E Main St, Stockton, CA 95205, United States",37.9541042,-121.24226
-95205,Apoyo Financiero Stockton,"504 N Wilson Way, Stockton, CA 95205, United States",37.96100149999999,-121.2723602
+95205,Apoyo Financiero Stockton,"504 N Wilson Way, Stockton, CA 95205, United States",37.9610015,-121.2723602
 95206,King Cash Advance,"3538 Manthey Rd STE B, Stockton, CA 95206, United States",37.9109663,-121.2921406
 95206,Payroll Loans,"3538 Manthey Rd D, Stockton, CA 95206, United States",37.910874,-121.291806
 95206,California Check Cashing Stores,"353 W Charter Way a, Stockton, CA 95206, United States",37.9379341,-121.2921927
@@ -2498,7 +2498,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 95207,Check `n Go,"980 W Robinhood Dr Suite 3B, Stockton, CA 95207, United States",37.9998494,-121.3176864
 95207,Advance America,"4663 Pacific Ave Suite C, Stockton, CA 95207, United States",37.99057,-121.312775
 95207,A To Z Check Cashing,"6037 Pacific Ave #3707, Stockton, CA 95207, United States",38.005209,-121.3187989
-95207,California Check Cashing Stores,"6231 Pacific Ave, Stockton, CA 95207, United States",38.00660010000001,-121.3196529
+95207,California Check Cashing Stores,"6231 Pacific Ave, Stockton, CA 95207, United States",38.0066001,-121.3196529
 95207,OneMain Financial,"4719 Quail Lakes Dr ste b, Stockton, CA 95207, United States",37.9865049,-121.3417102
 95209,California Check Cashing Stores,"1012 W Hammer Ln, Stockton, CA 95209, United States",38.020714,-121.3241172
 95209,Title Loans,"Stockton, CA 95209, United States",38.0226751,-121.3569545
@@ -2555,7 +2555,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 95336,Golden Valley Credit Union,"409 W Center St, Manteca, CA 95336, United States",37.7994105,-121.2210373
 95337,Fast Auto and Payday Loans,"1351 W Yosemite Ave, Manteca, CA 95337, United States",37.7977587,-121.2381915
 95337,Advance America,"1453 W Yosemite Ave, Manteca, CA 95337, United States",37.7982,-121.23946
-95337,Check `n Go,"1142 S Main St, Manteca, CA 95337, United States",37.78680629999999,-121.2150415
+95337,Check `n Go,"1142 S Main St, Manteca, CA 95337, United States",37.7868063,-121.2150415
 95337,OneMain Financial,"1491 W Yosemite Ave, Manteca, CA 95337, United States",37.7977294,-121.2401123
 95337,California Check Cashing Stores,"1330 W Yosemite Ave, Manteca, CA 95337, United States",37.7971737,-121.2378061
 95338,Yosemite Bank a division of Premier Valley Bank,"5171 CA-49, Mariposa, CA 95338, United States",37.492649,-119.972945
@@ -2605,7 +2605,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 95358,Oportun,"1620 Crows Landing Rd, Modesto, CA 95358, United States",37.6061951,-120.9926035
 95360,Bank of the West,"945 Fresno St, Newman, CA 95360, United States",37.314885,-121.022177
 95360,Western Union,"Rite Aid, 1935 N St, Newman, CA 95360, United States",37.309875,-121.020385
-95360,Mechanics Bank - Newman Branch,"1305 Main St, Newman, CA 95360, United States",37.31564520000001,-121.0229593
+95360,Mechanics Bank - Newman Branch,"1305 Main St, Newman, CA 95360, United States",37.3156452,-121.0229593
 95361,Check Into Cash,"1570 E F St suite g, Oakdale, CA 95361, United States",37.774416,-120.830153
 95361,ACE Cash Express,"1190 E F St #6A, Oakdale, CA 95361, United States",37.770202,-120.8388
 95361,Servin Check Cashing,"157 S Sierra Ave # D, Oakdale, CA 95361, United States",37.766163,-120.845128
@@ -2627,7 +2627,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 95370,Bank of Stockton (Sonora),"242 S Washington St, Sonora, CA 95370, United States",37.982011,-120.3822589
 95370,Oak Valley Community Bank - Sonora East,"14890 Mono Way, Sonora, CA 95370, United States",37.977655,-120.31789
 95370,Freer Financial Services,"995 Morning Star Dr, Sonora, CA 95370, United States",37.9850555,-120.3676657
-95370,Bank of America (with Drive-thru ATM),"14830 Mono Way, Sonora, CA 95370, United States",37.97740599999999,-120.3195412
+95370,Bank of America (with Drive-thru ATM),"14830 Mono Way, Sonora, CA 95370, United States",37.977406,-120.3195412
 95370,"PrimeLending, A PlainsCapital Company","726 Mono Way, Sonora, CA 95370, United States",37.9741589,-120.37165
 95370,Fairway Independent Mortgage Corporation,"14520 Mono Way Suite 110, Sonora, CA 95370, United States",37.9784752,-120.3263887
 95370,Vance Capital Management,"14570 Mono Way suite a, Sonora, CA 95370, United States",37.9782563,-120.3250372
@@ -2656,13 +2656,13 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 95382,Check Into Cash,"2305 Geer Rd, Turlock, CA 95382, United States",37.5139741,-120.8505638
 95401,Check Center,"1880 Mendocino Ave F, Santa Rosa, CA 95401, United States",38.4584684,-122.7166926
 95401,5 Star Car Title Loans,"1000 W College Ave ste b, Santa Rosa, CA 95401, United States",38.4451798,-122.7397229
-95401,Patelco Credit Union,"1965 Cleveland Ave, Santa Rosa, CA 95401, United States",38.45593909999999,-122.7267024
+95401,Patelco Credit Union,"1965 Cleveland Ave, Santa Rosa, CA 95401, United States",38.4559391,-122.7267024
 95401,Umpqua Bank,"1055 W College Ave Suite A, Santa Rosa, CA 95401, United States",38.445578,-122.7409222
 95403,Check `n Go,"1331 Guerneville Rd Suite P, Santa Rosa, CA 95403, United States",38.4593045,-122.7336769
 95403,Western Payday,"3585 Industrial Dr, Santa Rosa, CA 95403, United States",38.477718,-122.735799
 95403,Check Max Plus,"1772 Piner Rd, Santa Rosa, CA 95403, United States",38.4685959,-122.7439432
 95403,California Check Cashing Stores,"1017 Steele Ln, Santa Rosa, CA 95403, United States",38.460162,-122.7281668
-95403,Cash Now,"1420 Guerneville Rd, Santa Rosa, CA 95403, United States",38.45732400000001,-122.7344912
+95403,Cash Now,"1420 Guerneville Rd, Santa Rosa, CA 95403, United States",38.457324,-122.7344912
 95403,Frontera Cash And Loan,"1772 Piner Rd, Santa Rosa, CA 95403, United States",38.4686063,-122.7439517
 95403,"check n go, Check `n Go Store Directory","1331 Guerneville Rd P, Santa Rosa, CA 95403, United States",38.4590201,-122.7330071
 95403,"Westwater Financial, Inc.","55A St James Dr, Santa Rosa, CA 95403, United States",38.5022685,-122.7526772
@@ -2725,9 +2725,9 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 95501,A1 Check Cashing,"3220 Broadway St, Eureka, CA 95501, United States",40.7800519,-124.1874356
 95501,A A Cash Aa Check,"1102 5th St, Eureka, CA 95501, United States",40.802755,-124.159294
 95501,Humboldt Check Cashing,"1107 4th St, Eureka, CA 95501, United States",40.8038049,-124.1594247
-95501,Coast Central Credit Union,"3300 Broadway St Suite 810, Eureka, CA 95501, United States",40.78094859999999,-124.1892865
+95501,Coast Central Credit Union,"3300 Broadway St Suite 810, Eureka, CA 95501, United States",40.7809486,-124.1892865
 95501,Shalise Miles,"527 D St, Eureka, CA 95501, United States",40.8010854,-124.1675862
-95501,Umpqua Bank,"701 5th St, Eureka, CA 95501, United States",40.80244039999999,-124.1635996
+95501,Umpqua Bank,"701 5th St, Eureka, CA 95501, United States",40.8024404,-124.1635996
 95501,SN Servicing Corporation,"323 5th St, Eureka, CA 95501, United States",40.8019338,-124.1674783
 95501,Coast Central Credit Union,"2650 Harrison Ave, Eureka, CA 95501, United States",40.7834972,-124.13995
 95501,Coast Central Credit Union,"402 F St, Eureka, CA 95501, United States",40.8025357,-124.1667071
@@ -2793,7 +2793,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 95616,Gatl Auto Car Loans Davis Ca,"1520 E Covell Blvd Suite B5 - 416B, Davis, CA 95616, United States",38.5609436,-121.7320667
 95620,EZ Cash Plus INC.,"823 N Adams St, Dixon, CA 95620, United States",38.4537464,-121.8237217
 95620,Travis Credit Union,"1470 Ary Ln, Dixon, CA 95620, United States",38.4563587,-121.8441968
-95620,Raymond James Financial Services,"195 N 1st St, Dixon, CA 95620, United States",38.44638490000001,-121.8229627
+95620,Raymond James Financial Services,"195 N 1st St, Dixon, CA 95620, United States",38.4463849,-121.8229627
 95621,CashMax,"7340 Greenback Ln #3, Citrus Heights, CA 95621, United States",38.677789,-121.295658
 95621,Advance America,"7291 Greenback Ln Ste. 2, Citrus Heights, CA 95621, United States",38.67882,-121.294914
 95621,USA Cash Services,"7347 Greenback Ln, Citrus Heights, CA 95621, United States",38.6805042,-121.2917038
@@ -2809,7 +2809,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 95628,Check `n Go,"4886 San Juan Ave, Fair Oaks, CA 95628, United States",38.6550493,-121.291683
 95630,California Check Cashing Stores,"401 E Bidwell St ste a, Folsom, CA 95630, United States",38.6736106,-121.1673475
 95630,OneMain Financial,"1181 Riley St, Folsom, CA 95630, United States",38.6708618,-121.1631108
-95630,Gatl Auto Financing Folsom Ca,"1750 Prairie City Rd Suite 130 #781-F, Folsom, CA 95630, United States",38.65128139999999,-121.1655664
+95630,Gatl Auto Financing Folsom Ca,"1750 Prairie City Rd Suite 130 #781-F, Folsom, CA 95630, United States",38.6512814,-121.1655664
 95630,Umpqua Bank,"2779 E Bidwell St Suite 400, Folsom, CA 95630, United States",38.6540615,-121.1234147
 95630,Charles Terry - CMG Financial Mortgage Loan Officer NMLS# 459905,"2600 E Bidwell St STE 160, Folsom, CA 95630, United States",38.6590098,-121.1281648
 95630,SAFE Credit Union - Corporate Office,"2295 Iron Point Rd Suite 100, Folsom, CA 95630, United States",38.6432367,-121.1326827
@@ -2830,11 +2830,11 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 95648,Umpqua Bank,"571 5th St, Lincoln, CA 95648, United States",38.891575,-121.291213
 95648,Umpqua Bank,"805 Twelve Bridges Dr Suite 10, Lincoln, CA 95648, United States",38.8509237,-121.2871322
 95648,SAFE Credit Union,"111 Ferrari Ranch Rd, Lincoln, CA 95648, United States",38.8747409,-121.3014802
-95648,BBVA Bank,"701 Sterling Pkwy Bldg 1, Lincoln, CA 95648, United States",38.87117730000001,-121.2942231
+95648,BBVA Bank,"701 Sterling Pkwy Bldg 1, Lincoln, CA 95648, United States",38.8711773,-121.2942231
 95648,U.S. Bank Branch,"525 McBean Park Dr, Lincoln, CA 95648, United States",38.8903127,-121.2905759
 95660,Advance America,"3603 Elkhorn Blvd, North Highlands, CA 95660, United States",38.690887,-121.382256
-95660,USA Cash Services,"6139 Watt Ave, North Highlands, CA 95660, United States",38.67914280000001,-121.3832543
-95660,California Check Cashing Stores,"5949 Watt Ave, North Highlands, CA 95660, United States",38.67556769999999,-121.3832194
+95660,USA Cash Services,"6139 Watt Ave, North Highlands, CA 95660, United States",38.6791428,-121.3832543
+95660,California Check Cashing Stores,"5949 Watt Ave, North Highlands, CA 95660, United States",38.6755677,-121.3832194
 95660,"check n go, Check `n Go Store Directory","6099 Watt Ave #1, North Highlands, CA 95660, United States",38.6775546,-121.3833553
 95661,California Check Cashing Stores,"820 Sunrise Ave, Roseville, CA 95661, United States",38.7321806,-121.2723602
 95661,OneMain Financial,"1821 Douglas Blvd C, Roseville, CA 95661, United States",38.7451504,-121.2599817
@@ -2862,7 +2862,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 95677,Cash Club,"6661 Stanford Ranch Rd A, Rocklin, CA 95677, United States",38.7824913,-121.2634633
 95678,Lead Car Title Loans Roseville,"700 Vallejo Ave #89, Roseville, CA 95678, United States",38.7606318,-121.297887
 95682,Check Into Cash,"3440 Palmer Drive, Suite *-D, Cameron Park, CA 95682, United States",38.6616981,-120.9670532
-95682,Umpqua Bank,"4011 Plaza Goldorado Cir, Cameron Park, CA 95682, United States",38.66242099999999,-120.9694879
+95682,Umpqua Bank,"4011 Plaza Goldorado Cir, Cameron Park, CA 95682, United States",38.662421,-120.9694879
 95682,Western Union,"Check Into Cash, 3440 Palmer Dr Ste 8d, Cameron Park, CA 95682, United States",38.6617034,-120.9669045
 95682,Cameron Park,"Cameron Park Dr, Cameron Park, CA 95682, United States",38.6765712,-120.9806158
 95685,Umpqua Bank,"11 Ridge Rd, Sutter Creek, CA 95685, United States",38.3789329,-120.8007903
@@ -2870,32 +2870,32 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 95687,CashMax,"1989 Peabody Rd #8, Vacaville, CA 95687, United States",38.3359384,-121.9689094
 95687,California Check Cashing Stores,"135 Peabody Rd, Vacaville, CA 95687, United States",38.3520556,-121.9749198
 95687,EZ Cash Plus INC.,"1110 #B, Marshall Rd, Vacaville, CA 95687, United States",38.346806,-121.973238
-95687,Travis Credit Union,"2020 Harbison Dr, Vacaville, CA 95687, United States",38.36051390000001,-121.9628747
+95687,Travis Credit Union,"2020 Harbison Dr, Vacaville, CA 95687, United States",38.3605139,-121.9628747
 95687,Travis Credit Union,"2010 Peabody Rd, Vacaville, CA 95687, United States",38.334739,-121.9708647
 95687,Travis Credit Union,"One, Travis Way, Vacaville, CA 95687, United States",38.3583033,-121.9697525
-95688,Advance America,"895 Markham Ave, Vacaville, CA 95688, United States",38.35928699999999,-121.98139
+95688,Advance America,"895 Markham Ave, Vacaville, CA 95688, United States",38.359287,-121.98139
 95688,Downtown Lending Group,"707 Merchant St, Vacaville, CA 95688, United States",38.349551,-121.994762
 95688,Caliber Home Loans - The Superior Team,"850 Merchant St, Vacaville, CA 95688, United States",38.348872,-121.9964062
-95688,Solano Mortgage - Alamo Dr.,"862 Alamo Dr, Vacaville, CA 95688, United States",38.34743110000001,-122.0003433
+95688,Solano Mortgage - Alamo Dr.,"862 Alamo Dr, Vacaville, CA 95688, United States",38.3474311,-122.0003433
 95688,Caliber Home Loans - Adobe Mortgage Group,"785 Alamo Dr Suite 140, Vacaville, CA 95688, United States",38.3492877,-121.9997011
 95688,Umpqua Bank,"403 Davis St 1st Floor, Vacaville, CA 95688, United States",38.3545005,-121.9854941
-95688,Bank of the West,"330 Davis St, Vacaville, CA 95688, United States",38.35512300000001,-121.986732
+95688,Bank of the West,"330 Davis St, Vacaville, CA 95688, United States",38.355123,-121.986732
 95691,Check Into Cash,"809 Harbor Blvd, West Sacramento, CA 95691, United States",38.578908,-121.549402
-95691,Advance America,"900 Jefferson Blvd Ste. 120, West Sacramento, CA 95691, United States",38.57586000000001,-121.52531
-95691,OneMain Financial,"2230 Lake Washington Blvd Ste 110, West Sacramento, CA 95691, United States",38.55594749999999,-121.5401372
+95691,Advance America,"900 Jefferson Blvd Ste. 120, West Sacramento, CA 95691, United States",38.57586,-121.52531
+95691,OneMain Financial,"2230 Lake Washington Blvd Ste 110, West Sacramento, CA 95691, United States",38.5559475,-121.5401372
 95691,Fast Money Car Title Loans,"857 Jefferson Blvd, West Sacramento, CA 95691, United States",38.5788112,-121.5255146
 95691,Fast Money Car Title Loans,"1925 W Capitol Ave, West Sacramento, CA 95691, United States",38.5796425,-121.5352385
 95691,Loyalty Pawn #5,"3045 W Capitol Ave, West Sacramento, CA 95691, United States",38.5780312,-121.5503357
 95694,Raymond James Financial Services,"48 E Main St, Winters, CA 95694, United States",38.5211872,-121.9700921
 95695,Advance America,"47 W Main St, Woodland, CA 95695, United States",38.677387,-121.785545
 95695,Funding Five Star,"Woodland, CA 95695, United States",38.6784977,-121.7732973
-95695,California Check Cashing Stores,"115 Main St, Woodland, CA 95695, United States",38.67774989999999,-121.7819163
+95695,California Check Cashing Stores,"115 Main St, Woodland, CA 95695, United States",38.6777499,-121.7819163
 95695,Oportun,"34 W Court St, Woodland, CA 95695, United States",38.6801262,-121.7858304
 95695,Lead Car Title Loans Woodland,"117 W Main St Suite #12, Woodland, CA 95695, United States",38.677012,-121.7894924
 95695,Apoyo Financiero Woodland,"70 W Court St, Woodland, CA 95695, United States",38.6791309,-121.786919
 95695,Umpqua Bank,"203 Main St, Woodland, CA 95695, United States",38.6777327,-121.7790761
 95695,Cash Creek Check Cashing,"117 W Main St #6, Woodland, CA 95695, United States",38.677012,-121.7894924
-95695,Swift Title Loans,"439 Main St, Woodland, CA 95695, United States",38.67853909999999,-121.7724728
+95695,Swift Title Loans,"439 Main St, Woodland, CA 95695, United States",38.6785391,-121.7724728
 95695,Ez Cash,"56 W Court St, Woodland, CA 95695, United States",38.6797488,-121.7868417
 95695,Envoy Mortgage Woodland,"296 W Main St #100, Woodland, CA 95695, United States",38.6779805,-121.7976925
 95695,Fairway Independent Mortgage Corporation,"433 2nd St Suite 102, Woodland, CA 95695, United States",38.6766157,-121.7715014
@@ -2954,8 +2954,8 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 95823,Ace Express,"Alta Valley Dr, Sacramento, CA 95823, United States",38.4736728,-121.4255232
 95825,Check Into Cash,"2527 Alta Arden Expy, Sacramento, CA 95825, United States",38.599343,-121.403645
 95825,Advance America,"2544 Arden Way Ste. B, Sacramento, CA 95825, United States",38.595673,-121.40214
-95825,California Check Cashing Stores,"1290 Fulton Ave, Sacramento, CA 95825, United States",38.58856249999999,-121.4009157
-95825,USA CASH SERVICES,"1350 Fulton Ave, Sacramento, CA 95825, United States",38.59025949999999,-121.4011535
+95825,California Check Cashing Stores,"1290 Fulton Ave, Sacramento, CA 95825, United States",38.5885625,-121.4009157
+95825,USA CASH SERVICES,"1350 Fulton Ave, Sacramento, CA 95825, United States",38.5902595,-121.4011535
 95825,Check `n Go,"2550 Alta Arden Expy, Sacramento, CA 95825, United States",38.5990002,-121.4029223
 95825,RPM Lenders,"2830 Arden Way, Sacramento, CA 95825, United States",38.5955653,-121.3973066
 95826,ACE Cash Express,"8391 Folsom Blvd Ste 2, Sacramento, CA 95826, United States",38.54849,-121.39412
@@ -2981,7 +2981,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 95841,Money Mart,"5044 Madison Ave, Sacramento, CA 95841, United States",38.6604587,-121.3466993
 95842,ACE Cash Express,"4341 Elkhorn Blvd, Sacramento, CA 95842, United States",38.695436,-121.362105
 95842,ACE Cash Express,"5227 Elkhorn Blvd, Sacramento, CA 95842, United States",38.688215,-121.342414
-95843,OneMain Financial,"4400 Elverta Rd Ste 150, Antelope, CA 95843, United States",38.71278179999999,-121.3624676
+95843,OneMain Financial,"4400 Elverta Rd Ste 150, Antelope, CA 95843, United States",38.7127818,-121.3624676
 95901,ACE Cash Express,"729 E St, Marysville, CA 95901, United States",39.143407,-121.590824
 95901,ACE Cash Express,"6000 Lindhurst Ave, Marysville, CA 95901, United States",39.122794,-121.569873
 95901,Diamond Check Cashing,"1549 N Beale Rd, Marysville, CA 95901, United States",39.127873,-121.559798
@@ -3009,19 +3009,19 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 95928,Sierra Central Credit Union,"352 E 1st St, Chico, CA 95928, United States",39.7320121,-121.8386838
 95928,Umpqua Bank Commercial Banking Center,"2580 Sierra Sunrise Terrace #130, Chico, CA 95928, United States",39.743878,-121.79003
 95928,Golden 1 Credit Union,"239 W 2nd St Suite 1, Chico, CA 95928, United States",39.7290849,-121.8417249
-95932,Umpqua Bank,"655 Fremont St, Colusa, CA 95932, United States",39.20813320000001,-122.0129099
+95932,Umpqua Bank,"655 Fremont St, Colusa, CA 95932, United States",39.2081332,-122.0129099
 95932,Wells Fargo Bank,"501 Market St, Colusa, CA 95932, United States",39.213787,-122.0083103
 95945,Smiley Services Check Cashing,"157 Joerschke Dr, Grass Valley, CA 95945, United States",39.2325413,-121.0407441
-95945,American Pacific Mortgage,"419 Colfax Ave, Grass Valley, CA 95945, United States",39.21556349999999,-121.0548583
+95945,American Pacific Mortgage,"419 Colfax Ave, Grass Valley, CA 95945, United States",39.2155635,-121.0548583
 95945,First U.S. Grass Valley Branch,"2100 Nevada City Hwy, Grass Valley, CA 95945, United States",39.238709,-121.0365287
-95945,Sierra Central Credit Union,"1000 Plaza Dr, Grass Valley, CA 95945, United States",39.23395439999999,-121.0336528
+95945,Sierra Central Credit Union,"1000 Plaza Dr, Grass Valley, CA 95945, United States",39.2339544,-121.0336528
 95945,Bank of the West,"460 Brunswick Rd, Grass Valley, CA 95945, United States",39.2346155,-121.0304767
 95945,El Dorado Savings Bank,"1751 E Main St, Grass Valley, CA 95945, United States",39.2350538,-121.0399913
 95945,Chase Bank,"428 Brunswick Rd, Grass Valley, CA 95945, United States",39.23487,-121.031596
-95945,River Valley Community Bank,"580 Brunswick Rd, Grass Valley, CA 95945, United States",39.23325699999999,-121.028759
+95945,River Valley Community Bank,"580 Brunswick Rd, Grass Valley, CA 95945, United States",39.233257,-121.028759
 95945,Bank of America Financial Center,"804 Sutton Way, Grass Valley, CA 95945, United States",39.2341211,-121.0345734
 95945,Stifel,"404 Sierra College Dr, Grass Valley, CA 95945, United States",39.2361256,-121.0572591
-95945,Bank of America (with Drive-thru ATM),"134 S Church St, Grass Valley, CA 95945, United States",39.21790379999999,-121.0641406
+95945,Bank of America (with Drive-thru ATM),"134 S Church St, Grass Valley, CA 95945, United States",39.2179038,-121.0641406
 95945,"Edward Jones - Financial Advisor: Ryan W Meacher, AAMS®","426 Sutton Way Ste 104, Grass Valley, CA 95945, United States",39.2319263,-121.0364409
 95945,Eric Sams - Raymond James,"1793 E Main St, Grass Valley, CA 95945, United States",39.235426,-121.0394509
 95948,Alicia Check Cashing,"1544 CA-99, Gridley, CA 95948, United States",39.3609274,-121.687492
@@ -3038,16 +3038,16 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 95963,Merchants Bank of Commerce,"328 Walker St, Orland, CA 95963, United States",39.7475238,-122.1938926
 95963,Raymond James Financial Services,"100 E Walker St, Orland, CA 95963, United States",39.7470667,-122.1844626
 95963,Edward Jones - Financial Advisor: Joyce L Yancy,"722 4th St, Orland, CA 95963, United States",39.7467066,-122.1944954
-95965,Check `n Go,"1124 Oro Dam Blvd E Space E, Oroville, CA 95965, United States",39.50241210000001,-121.5624678
+95965,Check `n Go,"1124 Oro Dam Blvd E Space E, Oroville, CA 95965, United States",39.5024121,-121.5624678
 95965,Don's Check Exchange,"1353 Feather River Blvd, Oroville, CA 95965, United States",39.5086812,-121.5698499
 95965,California Check Cashing Stores,"1985 Oro Dam Blvd E, Oroville, CA 95965, United States",39.5043854,-121.5497147
 95965,OneMain Financial,"475 Oro Dam Blvd E Ste A, Oroville, CA 95965, United States",39.4977631,-121.5698753
 95965,"check n go, Check `n Go Store Directory","Oroville, CA 95965, United States",39.5024099,-121.5624683
-95965,Sierra Central Credit Union,"1036 Oro Dam Blvd E, Oroville, CA 95965, United States",39.50083100000001,-121.5631733
+95965,Sierra Central Credit Union,"1036 Oro Dam Blvd E, Oroville, CA 95965, United States",39.500831,-121.5631733
 95966,Advance America,"2260 Oro Dam Blvd E Ste D, Oroville, CA 95966, United States",39.505642,-121.548164
 95966,Check Into Cash,"1751 Oro Dam Blvd W #9, Oroville, CA 95966, United States",39.503066,-121.553408
 95966,Oro Jewelry & Loan,"1827 Oro Dam Blvd E, Oroville, CA 95966, United States",39.5037124,-121.5519039
-95966,Chase Bank,"2001 Oro Dam Blvd E, Oroville, CA 95966, United States",39.50450319999999,-121.5491516
+95966,Chase Bank,"2001 Oro Dam Blvd E, Oroville, CA 95966, United States",39.5045032,-121.5491516
 95966,Bank of the West,"2626 Oro Dam Blvd E, Oroville, CA 95966, United States",39.5066234,-121.5462139
 95968,Thrivent Financial for Lutherans,"7600 Irwin Ave, Palermo, CA 95968, United States",39.4327818,-121.5434293
 95969,Chase Bank,"6669 Clark Rd, Paradise, CA 95969, United States",39.7780122,-121.5907514
@@ -3056,7 +3056,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 95988,Umpqua Bank,"160 N Butte St, Willows, CA 95988, United States",39.5216663,-122.195085
 95988,Tri Counties Bank,"210 N Tehama St, Willows, CA 95988, United States",39.5223318,-122.1935394
 95988,Sierra Central Credit Union,"1030 W Wood St, Willows, CA 95988, United States",39.5240023,-122.206428
-95988,Merchants Bank Of Commerce,"155 N Tehama St, Willows, CA 95988, United States",39.52143119999999,-122.1943009
+95988,Merchants Bank Of Commerce,"155 N Tehama St, Willows, CA 95988, United States",39.5214312,-122.1943009
 95988,Tammy Hart Tax Consulting,"229 N Villa Ave, Willows, CA 95988, United States",39.522249,-122.209323
 95988,ATM - Umpqua Bank,"160 N Butte St, Willows, CA 95988, United States",39.521666,-122.1950477
 95991,Advance America,"708 W Onstott Frontage Rd Ste. B, Yuba City, CA 95991, United States",39.133896,-121.6364
@@ -3066,11 +3066,11 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 95991,Top Auto Car Loans Yuba City Ca,"1000 Lincoln Rd ste h 807, Yuba City, CA 95991, United States",39.1119978,-121.626678
 95991,Oportun,"700 Gray Ave, Yuba City, CA 95991, United States",39.1330879,-121.6307927
 95991,Car Title Loans California,"1215 Colusa Ave, Yuba City, CA 95991, United States",39.144259,-121.6326756
-95991,Umpqua Bank,"777 Colusa Ave, Yuba City, CA 95991, United States",39.14247630000001,-121.6275981
+95991,Umpqua Bank,"777 Colusa Ave, Yuba City, CA 95991, United States",39.1424763,-121.6275981
 95991,Evergreen Home Loans Yuba City NMLS 229091,"815 Plumas St, Yuba City, CA 95991, United States",39.140282,-121.617306
 95991,Discoteca Vallarta,"637 Plumas St, Yuba City, CA 95991, United States",39.1365707,-121.6156176
-95991,Sierra Central Credit Union,"520 Bogue Rd, Yuba City, CA 95991, United States",39.09995060000001,-121.61647
-95993,Express Payday Loans,"1431 Colusa Hwy, Yuba City, CA 95993, United States",39.14206069999999,-121.6389847
+95991,Sierra Central Credit Union,"520 Bogue Rd, Yuba City, CA 95991, United States",39.0999506,-121.61647
+95993,Express Payday Loans,"1431 Colusa Hwy, Yuba City, CA 95993, United States",39.1420607,-121.6389847
 95993,Check Into Cash,"1380 Franklin Rd, Yuba City, CA 95993, United States",39.127088,-121.637808
 95993,OneMain Financial,"1054 Harter Pkwy ste b, Yuba City, CA 95993, United States",39.142366,-121.6518
 95993,Golden Pacific Bank,"620 N Walton Ave, Yuba City, CA 95993, United States",39.1326967,-121.6443652
@@ -3092,7 +3092,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 96003,OneMain Financial,"1355 Churn Creek Rd, Ste C5, Redding, CA 96003, United States",40.5872052,-122.3485278
 96003,Top Auto Car Loans Redding CA,"297 Boulder Creek Dr D, Redding, CA 96003, United States",40.6131351,-122.3672743
 96003,Lendmark Financial Services LLC,"North Point Plaza, 107 Lake Blvd, Redding, CA 96003, United States",40.6114636,-122.3782948
-96003,Olde West Gun & Loan Co Inc,"568 N Market St, Redding, CA 96003, United States",40.59829879999999,-122.3857528
+96003,Olde West Gun & Loan Co Inc,"568 N Market St, Redding, CA 96003, United States",40.5982988,-122.3857528
 96003,Megastar Financial Redding,"920 Hilltop Dr Suite B, Redding, CA 96003, United States",40.5948328,-122.359875
 96007,Advance America,"2691 Balls Ferry Rd, Anderson, CA 96007, United States",40.4545,-122.2876899
 96007,Members 1st Credit Union,"5020 Rhonda Rd suite h, Anderson, CA 96007, United States",40.4331794,-122.2897054
@@ -3103,8 +3103,8 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 96020,U.S. Bank Branch,"236 Main St, Chester, CA 96020, United States",40.3088474,-121.2305095
 96020,Equitylink Home Loans,"Chester, CA 96020, United States",40.3062736,-121.2319098
 96021,Advance America,"908 Hwy 99 W Ste. B, Corning, CA 96021, United States",39.92692,-122.19807
-96021,A1 Check Cashing of Corning,"1920 Solano St, Corning, CA 96021, United States",39.92841850000001,-122.1911672
-96021,Banner Bank,"1201 Solano St, Corning, CA 96021, United States",39.92763950000001,-122.1813007
+96021,A1 Check Cashing of Corning,"1920 Solano St, Corning, CA 96021, United States",39.9284185,-122.1911672
+96021,Banner Bank,"1201 Solano St, Corning, CA 96021, United States",39.9276395,-122.1813007
 96021,Western Union,"Dollar General, 530 Solano St, Corning, CA 96021, United States",39.928491,-122.171989
 96021,H&R Block,"1915 A, Solano St, Corning, CA 96021, United States",39.9277418,-122.1909855
 96022,Tri Counties Bank,"3349 Main St, Cottonwood, CA 96022, United States",40.385047,-122.2810477
@@ -3127,7 +3127,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 96080,Community Loans of America Inc,"265 S Main St, Red Bluff, CA 96080, United States",40.1679982,-122.2285893
 96080,Carlson Financial Services,"Red Bluff, CA 96080, United States",40.1784886,-122.2358302
 96080,Umpqua Bank,"333 Main St, Red Bluff, CA 96080, United States",40.1740992,-122.2323733
-96080,Golden State Farm Credit,"255 Sale Ln, Red Bluff, CA 96080, United States",40.17846369999999,-122.2192529
+96080,Golden State Farm Credit,"255 Sale Ln, Red Bluff, CA 96080, United States",40.1784637,-122.2192529
 96088,PaydayLoanTeller,"28740 Inwood Rd, Shingletown, CA 96088, United States",40.5112477,-121.9832162
 96094,U.S. Bank Branch,"269 Main St, Weed, CA 96094, United States",41.4246268,-122.3839408
 96097,Advance America,"1880 Fort Jones Rd, Yreka, CA 96097, United States",41.70128,-122.645744
@@ -3141,7 +3141,7 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 96130,Allied Cash Advance,"2930 Main St, Susanville, CA 96130, United States",40.407698,-120.6351963
 96134,American AgCredit,"448 Main St, Tulelake, CA 96134, United States",41.955496,-121.4762799
 96134,Thrivent Financial for Lutherans,"611 4th St, Tulelake, CA 96134, United States",41.953364,-121.4755354
-96137,Plumas Bank,"315 Birch St, Westwood, CA 96137, United States",40.30332600000001,-121.0021967
+96137,Plumas Bank,"315 Birch St, Westwood, CA 96137, United States",40.303326,-121.0021967
 96146,Thrivent Financial - Lutherans,"1995 Squaw Valley Rd, Olympic Valley, CA 96146, United States",39.1965872,-120.235357
 96150,All American Loan Center,"2197 Lake Tahoe Blvd, South Lake Tahoe, CA 96150, United States",38.917722,-119.9982119
 96150,Lake Tahoe Coin Jewelry & Loan,"3452 Lake Tahoe Blvd, South Lake Tahoe, CA 96150, United States",38.9456802,-119.9650727
@@ -3157,9 +3157,9 @@ Zip Code,Payday Vendor,Address,Lat,Lng
 96150,Wells Fargo Bank,"4000 Lake Tahoe Blvd #6, South Lake Tahoe, CA 96150, United States",38.9544667,-119.9428295
 96150,Bank of America (with Drive-thru ATM),"3344 Lake Tahoe Blvd, South Lake Tahoe, CA 96150, United States",38.9453663,-119.9698061
 96150,Marty Anderson - Wealth Financial Advisor,"2161 Lake Tahoe Blvd, South Lake Tahoe, CA 96150, United States",38.9166972,-120.0001122
-96161,Top Auto Car Loans Truckee Ca,"11260 Donner Pass Rd C1 # 1014, Truckee, CA 96161, United States",39.32716509999999,-120.2057974
+96161,Top Auto Car Loans Truckee Ca,"11260 Donner Pass Rd C1 # 1014, Truckee, CA 96161, United States",39.3271651,-120.2057974
 96161,Plumas Bank,"11638 Donner Pass Rd, Truckee, CA 96161, United States",39.3265154,-120.2141522
 96161,Sierra Mountain Mortgage Inc,"10098 Jibboom St # 201, Truckee, CA 96161, United States",39.3284335,-120.1861727
 96161,Bank of the West,"11202 Donner Pass Rd, Truckee, CA 96161, United States",39.326417,-120.204407
-96161,"Happy Investments, Inc. Truckee Ca","11260 Donner Pass Road C1 # 1014-G, Truckee, CA 96161, United States",39.32716509999999,-120.2057974
+96161,"Happy Investments, Inc. Truckee Ca","11260 Donner Pass Road C1 # 1014-G, Truckee, CA 96161, United States",39.3271651,-120.2057974
 96161,Wells Fargo Insurance Services,"Truckee, CA 96161, United States",39.327962,-120.1832533
