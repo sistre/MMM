@@ -1,5 +1,5 @@
 # MMM
-## Geo-spacial analysis of payday loan lenders in Impoverished California Communities
+## Geo-spacial Analysis of Payday Loan Lenders in Impoverished California Communities
 ### Description
 This repository hosts a geo-spatial analysis of the locations of impoverished communities across California and their relation to  paydaylender locations in California. Data sources for this project include: 
 /* U.S. Census Bureau American Community Survey (ACS5) API (for data on Poverty across California)
